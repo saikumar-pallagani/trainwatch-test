@@ -16,5 +16,14 @@
   "title": "Seats for all 17",
   "urgent": true,
   "watch": "sabarimala"
+ },
+ {
+  "at": 1795617782.2182188,
+  "body": "===== RETURN =====\nSat 19 Dec | 07234 QLN CCT SPECIAL | KYJ->BZA dep 03:04\n   1A: 16 seats (partial) Rs4500, data 1h old\n   -> book KYJ->BZA on Sat 19 Dec, change boarding point to CNGR",
+  "route": "BZA \u2192 KTYM, CNGR, QLN",
+  "sent": true,
+  "title": "1 new seat option(s)",
+  "urgent": false,
+  "watch": "sabarimala"
  }
 ]
