@@ -1,0 +1,30 @@
+name: Train watch
+on:
+  schedule:
+    - cron: "7 * * * *"   # every hour; each watch's own interval decides whether it runs
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: train-watch
+  cancel-in-progress: false
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check trains
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python3 watch.py ${{ github.event_name == 'workflow_dispatch' && '--force' || '' }}
+      - name: Save results
+        run: |
+          git config user.name "train-watch"
+          git config user.email "train-watch@users.noreply.github.com"
+          git add state.json history.json schedules.json README.md
+          if ! git diff --cached --quiet; then
+            git commit -q -m "Update train status [skip ci]"
+            git pull -q --rebase
+            git push -q
+          fi
