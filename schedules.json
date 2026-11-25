@@ -1,0 +1,5447 @@
+{
+ "07233": {
+  "at": 1795601644.4596257,
+  "halts": [
+   {
+    "code": "CCT",
+    "day": 1
+   },
+   {
+    "code": "SLO",
+    "day": 1
+   },
+   {
+    "code": "RJY",
+    "day": 1
+   },
+   {
+    "code": "TDD",
+    "day": 1
+   },
+   {
+    "code": "EE",
+    "day": 1
+   },
+   {
+    "code": "BZA",
+    "day": 1
+   },
+   {
+    "code": "GNT",
+    "day": 1
+   },
+   {
+    "code": "NRT",
+    "day": 1
+   },
+   {
+    "code": "VKN",
+    "day": 1
+   },
+   {
+    "code": "DKD",
+    "day": 1
+   },
+   {
+    "code": "MRK",
+    "day": 1
+   },
+   {
+    "code": "CBM",
+    "day": 1
+   },
+   {
+    "code": "GID",
+    "day": 1
+   },
+   {
+    "code": "DMT",
+    "day": 1
+   },
+   {
+    "code": "NDL",
+    "day": 1
+   },
+   {
+    "code": "BMH",
+    "day": 1
+   },
+   {
+    "code": "DHNE",
+    "day": 1
+   },
+   {
+    "code": "GY",
+    "day": 1
+   },
+   {
+    "code": "DMM",
+    "day": 1
+   },
+   {
+    "code": "KRY",
+    "day": 2
+   },
+   {
+    "code": "MPL",
+    "day": 2
+   },
+   {
+    "code": "PIL",
+    "day": 2
+   },
+   {
+    "code": "PAK",
+    "day": 2
+   },
+   {
+    "code": "CTO",
+    "day": 2
+   },
+   {
+    "code": "KPD",
+    "day": 2
+   },
+   {
+    "code": "JTJ",
+    "day": 2
+   },
+   {
+    "code": "SA",
+    "day": 2
+   },
+   {
+    "code": "ED",
+    "day": 2
+   },
+   {
+    "code": "TUP",
+    "day": 2
+   },
+   {
+    "code": "PTJ",
+    "day": 2
+   },
+   {
+    "code": "PGT",
+    "day": 2
+   },
+   {
+    "code": "TCR",
+    "day": 2
+   },
+   {
+    "code": "AWY",
+    "day": 2
+   },
+   {
+    "code": "ERN",
+    "day": 2
+   },
+   {
+    "code": "KTYM",
+    "day": 2
+   },
+   {
+    "code": "CGY",
+    "day": 2
+   },
+   {
+    "code": "TRVL",
+    "day": 2
+   },
+   {
+    "code": "CNGR",
+    "day": 2
+   },
+   {
+    "code": "MVLK",
+    "day": 2
+   },
+   {
+    "code": "KYJ",
+    "day": 2
+   },
+   {
+    "code": "KPY",
+    "day": 2
+   },
+   {
+    "code": "STKT",
+    "day": 2
+   },
+   {
+    "code": "QLN",
+    "day": 2
+   }
+  ]
+ },
+ "07234": {
+  "at": 1795601680.2393398,
+  "halts": [
+   {
+    "code": "QLN",
+    "day": 1
+   },
+   {
+    "code": "STKT",
+    "day": 1
+   },
+   {
+    "code": "KPY",
+    "day": 1
+   },
+   {
+    "code": "KYJ",
+    "day": 1
+   },
+   {
+    "code": "MVLK",
+    "day": 1
+   },
+   {
+    "code": "CNGR",
+    "day": 1
+   },
+   {
+    "code": "TRVL",
+    "day": 1
+   },
+   {
+    "code": "CGY",
+    "day": 1
+   },
+   {
+    "code": "KTYM",
+    "day": 1
+   },
+   {
+    "code": "ERN",
+    "day": 1
+   },
+   {
+    "code": "AWY",
+    "day": 1
+   },
+   {
+    "code": "TCR",
+    "day": 1
+   },
+   {
+    "code": "PGT",
+    "day": 1
+   },
+   {
+    "code": "PTJ",
+    "day": 1
+   },
+   {
+    "code": "TUP",
+    "day": 1
+   },
+   {
+    "code": "ED",
+    "day": 1
+   },
+   {
+    "code": "SA",
+    "day": 1
+   },
+   {
+    "code": "JTJ",
+    "day": 1
+   },
+   {
+    "code": "KPD",
+    "day": 1
+   },
+   {
+    "code": "CTO",
+    "day": 1
+   },
+   {
+    "code": "PAK",
+    "day": 1
+   },
+   {
+    "code": "PIL",
+    "day": 1
+   },
+   {
+    "code": "MPL",
+    "day": 1
+   },
+   {
+    "code": "KRY",
+    "day": 1
+   },
+   {
+    "code": "DMM",
+    "day": 2
+   },
+   {
+    "code": "GY",
+    "day": 2
+   },
+   {
+    "code": "DHNE",
+    "day": 2
+   },
+   {
+    "code": "BMH",
+    "day": 2
+   },
+   {
+    "code": "NDL",
+    "day": 2
+   },
+   {
+    "code": "DMT",
+    "day": 2
+   },
+   {
+    "code": "GID",
+    "day": 2
+   },
+   {
+    "code": "CBM",
+    "day": 2
+   },
+   {
+    "code": "MRK",
+    "day": 2
+   },
+   {
+    "code": "DKD",
+    "day": 2
+   },
+   {
+    "code": "VKN",
+    "day": 2
+   },
+   {
+    "code": "NRT",
+    "day": 2
+   },
+   {
+    "code": "GNT",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "EE",
+    "day": 2
+   },
+   {
+    "code": "TDD",
+    "day": 2
+   },
+   {
+    "code": "RJY",
+    "day": 2
+   },
+   {
+    "code": "SLO",
+    "day": 2
+   },
+   {
+    "code": "CCT",
+    "day": 2
+   }
+  ]
+ },
+ "08539": {
+  "at": 1795601644.9020708,
+  "halts": [
+   {
+    "code": "CHE",
+    "day": 1
+   },
+   {
+    "code": "PDU",
+    "day": 1
+   },
+   {
+    "code": "CPP",
+    "day": 1
+   },
+   {
+    "code": "VZM",
+    "day": 1
+   },
+   {
+    "code": "KTV",
+    "day": 1
+   },
+   {
+    "code": "PDT",
+    "day": 1
+   },
+   {
+    "code": "VSKP",
+    "day": 1
+   },
+   {
+    "code": "DVD",
+    "day": 1
+   },
+   {
+    "code": "AKP",
+    "day": 1
+   },
+   {
+    "code": "SLO",
+    "day": 1
+   },
+   {
+    "code": "RJY",
+    "day": 1
+   },
+   {
+    "code": "EE",
+    "day": 1
+   },
+   {
+    "code": "BZA",
+    "day": 1
+   },
+   {
+    "code": "TEL",
+    "day": 1
+   },
+   {
+    "code": "BPP",
+    "day": 1
+   },
+   {
+    "code": "CLX",
+    "day": 1
+   },
+   {
+    "code": "OGL",
+    "day": 1
+   },
+   {
+    "code": "NLR",
+    "day": 1
+   },
+   {
+    "code": "GDR",
+    "day": 1
+   },
+   {
+    "code": "RU",
+    "day": 2
+   },
+   {
+    "code": "KPD",
+    "day": 2
+   },
+   {
+    "code": "JTJ",
+    "day": 2
+   },
+   {
+    "code": "SA",
+    "day": 2
+   },
+   {
+    "code": "ED",
+    "day": 2
+   },
+   {
+    "code": "TUP",
+    "day": 2
+   },
+   {
+    "code": "PTJ",
+    "day": 2
+   },
+   {
+    "code": "PGT",
+    "day": 2
+   },
+   {
+    "code": "TCR",
+    "day": 2
+   },
+   {
+    "code": "AWY",
+    "day": 2
+   },
+   {
+    "code": "ERN",
+    "day": 2
+   },
+   {
+    "code": "KTYM",
+    "day": 2
+   },
+   {
+    "code": "CGY",
+    "day": 2
+   },
+   {
+    "code": "TRVL",
+    "day": 2
+   },
+   {
+    "code": "CNGR",
+    "day": 2
+   },
+   {
+    "code": "MVLK",
+    "day": 2
+   },
+   {
+    "code": "KYJ",
+    "day": 2
+   },
+   {
+    "code": "QLN",
+    "day": 2
+   }
+  ]
+ },
+ "08540": {
+  "at": 1795601680.6965237,
+  "halts": [
+   {
+    "code": "QLN",
+    "day": 1
+   },
+   {
+    "code": "KYJ",
+    "day": 1
+   },
+   {
+    "code": "MVLK",
+    "day": 1
+   },
+   {
+    "code": "CNGR",
+    "day": 1
+   },
+   {
+    "code": "TRVL",
+    "day": 1
+   },
+   {
+    "code": "CGY",
+    "day": 1
+   },
+   {
+    "code": "KTYM",
+    "day": 1
+   },
+   {
+    "code": "ERN",
+    "day": 1
+   },
+   {
+    "code": "AWY",
+    "day": 1
+   },
+   {
+    "code": "TCR",
+    "day": 1
+   },
+   {
+    "code": "PGT",
+    "day": 1
+   },
+   {
+    "code": "PTJ",
+    "day": 1
+   },
+   {
+    "code": "TUP",
+    "day": 1
+   },
+   {
+    "code": "ED",
+    "day": 1
+   },
+   {
+    "code": "SA",
+    "day": 1
+   },
+   {
+    "code": "JTJ",
+    "day": 1
+   },
+   {
+    "code": "KPD",
+    "day": 1
+   },
+   {
+    "code": "RU",
+    "day": 1
+   },
+   {
+    "code": "GDR",
+    "day": 2
+   },
+   {
+    "code": "NLR",
+    "day": 2
+   },
+   {
+    "code": "OGL",
+    "day": 2
+   },
+   {
+    "code": "CLX",
+    "day": 2
+   },
+   {
+    "code": "BPP",
+    "day": 2
+   },
+   {
+    "code": "TEL",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "EE",
+    "day": 2
+   },
+   {
+    "code": "RJY",
+    "day": 2
+   },
+   {
+    "code": "SLO",
+    "day": 2
+   },
+   {
+    "code": "AKP",
+    "day": 2
+   },
+   {
+    "code": "DVD",
+    "day": 2
+   },
+   {
+    "code": "VSKP",
+    "day": 2
+   },
+   {
+    "code": "PDT",
+    "day": 2
+   },
+   {
+    "code": "KTV",
+    "day": 2
+   },
+   {
+    "code": "VZM",
+    "day": 2
+   },
+   {
+    "code": "CPP",
+    "day": 2
+   },
+   {
+    "code": "PDU",
+    "day": 2
+   },
+   {
+    "code": "CHE",
+    "day": 2
+   }
+  ]
+ },
+ "12511": {
+  "at": 1795601645.759208,
+  "halts": [
+   {
+    "code": "GKP",
+    "day": 1
+   },
+   {
+    "code": "KLD",
+    "day": 1
+   },
+   {
+    "code": "BST",
+    "day": 1
+   },
+   {
+    "code": "MUR",
+    "day": 1
+   },
+   {
+    "code": "GD",
+    "day": 1
+   },
+   {
+    "code": "BBK",
+    "day": 1
+   },
+   {
+    "code": "BNZ",
+    "day": 1
+   },
+   {
+    "code": "ASH",
+    "day": 1
+   },
+   {
+    "code": "ON",
+    "day": 1
+   },
+   {
+    "code": "CNB",
+    "day": 1
+   },
+   {
+    "code": "PHN",
+    "day": 1
+   },
+   {
+    "code": "ORAI",
+    "day": 1
+   },
+   {
+    "code": "VGLJ",
+    "day": 1
+   },
+   {
+    "code": "LAR",
+    "day": 1
+   },
+   {
+    "code": "BPL",
+    "day": 1
+   },
+   {
+    "code": "ET",
+    "day": 1
+   },
+   {
+    "code": "GDYA",
+    "day": 1
+   },
+   {
+    "code": "BZU",
+    "day": 2
+   },
+   {
+    "code": "AMLA",
+    "day": 2
+   },
+   {
+    "code": "PAR",
+    "day": 2
+   },
+   {
+    "code": "NGP",
+    "day": 2
+   },
+   {
+    "code": "SEGM",
+    "day": 2
+   },
+   {
+    "code": "HGT",
+    "day": 2
+   },
+   {
+    "code": "CD",
+    "day": 2
+   },
+   {
+    "code": "BPQ",
+    "day": 2
+   },
+   {
+    "code": "SKZR",
+    "day": 2
+   },
+   {
+    "code": "BPA",
+    "day": 2
+   },
+   {
+    "code": "MCI",
+    "day": 2
+   },
+   {
+    "code": "RDM",
+    "day": 2
+   },
+   {
+    "code": "WL",
+    "day": 2
+   },
+   {
+    "code": "KMT",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "CLX",
+    "day": 2
+   },
+   {
+    "code": "OGL",
+    "day": 2
+   },
+   {
+    "code": "NLR",
+    "day": 2
+   },
+   {
+    "code": "GDR",
+    "day": 2
+   },
+   {
+    "code": "MAS",
+    "day": 2
+   },
+   {
+    "code": "KPD",
+    "day": 3
+   },
+   {
+    "code": "JTJ",
+    "day": 3
+   },
+   {
+    "code": "SA",
+    "day": 3
+   },
+   {
+    "code": "ED",
+    "day": 3
+   },
+   {
+    "code": "TUP",
+    "day": 3
+   },
+   {
+    "code": "CBE",
+    "day": 3
+   },
+   {
+    "code": "PGT",
+    "day": 3
+   },
+   {
+    "code": "OTP",
+    "day": 3
+   },
+   {
+    "code": "WKI",
+    "day": 3
+   },
+   {
+    "code": "TCR",
+    "day": 3
+   },
+   {
+    "code": "IJK",
+    "day": 3
+   },
+   {
+    "code": "CKI",
+    "day": 3
+   },
+   {
+    "code": "AFK",
+    "day": 3
+   },
+   {
+    "code": "AWY",
+    "day": 3
+   },
+   {
+    "code": "ERN",
+    "day": 3
+   },
+   {
+    "code": "ERS",
+    "day": 3
+   },
+   {
+    "code": "SRTL",
+    "day": 3
+   },
+   {
+    "code": "ALLP",
+    "day": 3
+   },
+   {
+    "code": "AMPA",
+    "day": 3
+   },
+   {
+    "code": "HAD",
+    "day": 3
+   },
+   {
+    "code": "KYJ",
+    "day": 3
+   },
+   {
+    "code": "QLN",
+    "day": 3
+   },
+   {
+    "code": "TVCN",
+    "day": 3
+   }
+  ]
+ },
+ "12512": {
+  "at": 1795601707.2691205,
+  "halts": [
+   {
+    "code": "TVCN",
+    "day": 1
+   },
+   {
+    "code": "QLN",
+    "day": 1
+   },
+   {
+    "code": "KYJ",
+    "day": 1
+   },
+   {
+    "code": "HAD",
+    "day": 1
+   },
+   {
+    "code": "AMPA",
+    "day": 1
+   },
+   {
+    "code": "ALLP",
+    "day": 1
+   },
+   {
+    "code": "SRTL",
+    "day": 1
+   },
+   {
+    "code": "ERS",
+    "day": 1
+   },
+   {
+    "code": "AWY",
+    "day": 1
+   },
+   {
+    "code": "AFK",
+    "day": 1
+   },
+   {
+    "code": "CKI",
+    "day": 1
+   },
+   {
+    "code": "IJK",
+    "day": 1
+   },
+   {
+    "code": "TCR",
+    "day": 1
+   },
+   {
+    "code": "WKI",
+    "day": 1
+   },
+   {
+    "code": "OTP",
+    "day": 1
+   },
+   {
+    "code": "PGT",
+    "day": 1
+   },
+   {
+    "code": "CBE",
+    "day": 1
+   },
+   {
+    "code": "TUP",
+    "day": 1
+   },
+   {
+    "code": "ED",
+    "day": 1
+   },
+   {
+    "code": "SA",
+    "day": 1
+   },
+   {
+    "code": "JTJ",
+    "day": 1
+   },
+   {
+    "code": "KPD",
+    "day": 1
+   },
+   {
+    "code": "MAS",
+    "day": 1
+   },
+   {
+    "code": "GDR",
+    "day": 2
+   },
+   {
+    "code": "NLR",
+    "day": 2
+   },
+   {
+    "code": "OGL",
+    "day": 2
+   },
+   {
+    "code": "CLX",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "KMT",
+    "day": 2
+   },
+   {
+    "code": "WL",
+    "day": 2
+   },
+   {
+    "code": "RDM",
+    "day": 2
+   },
+   {
+    "code": "MCI",
+    "day": 2
+   },
+   {
+    "code": "BPA",
+    "day": 2
+   },
+   {
+    "code": "SKZR",
+    "day": 2
+   },
+   {
+    "code": "BPQ",
+    "day": 2
+   },
+   {
+    "code": "CD",
+    "day": 2
+   },
+   {
+    "code": "HGT",
+    "day": 2
+   },
+   {
+    "code": "SEGM",
+    "day": 2
+   },
+   {
+    "code": "NGP",
+    "day": 2
+   },
+   {
+    "code": "PAR",
+    "day": 2
+   },
+   {
+    "code": "AMLA",
+    "day": 2
+   },
+   {
+    "code": "BZU",
+    "day": 2
+   },
+   {
+    "code": "GDYA",
+    "day": 2
+   },
+   {
+    "code": "ET",
+    "day": 2
+   },
+   {
+    "code": "BPL",
+    "day": 2
+   },
+   {
+    "code": "LAR",
+    "day": 3
+   },
+   {
+    "code": "VGLJ",
+    "day": 3
+   },
+   {
+    "code": "ORAI",
+    "day": 3
+   },
+   {
+    "code": "PHN",
+    "day": 3
+   },
+   {
+    "code": "CNB",
+    "day": 3
+   },
+   {
+    "code": "ON",
+    "day": 3
+   },
+   {
+    "code": "ASH",
+    "day": 3
+   },
+   {
+    "code": "BNZ",
+    "day": 3
+   },
+   {
+    "code": "BBK",
+    "day": 3
+   },
+   {
+    "code": "GD",
+    "day": 3
+   },
+   {
+    "code": "MUR",
+    "day": 3
+   },
+   {
+    "code": "BST",
+    "day": 3
+   },
+   {
+    "code": "KLD",
+    "day": 3
+   },
+   {
+    "code": "GKP",
+    "day": 3
+   }
+  ]
+ },
+ "12625": {
+  "at": 1795601681.1442916,
+  "halts": [
+   {
+    "code": "TVC",
+    "day": 1
+   },
+   {
+    "code": "VAK",
+    "day": 1
+   },
+   {
+    "code": "QLN",
+    "day": 1
+   },
+   {
+    "code": "KYJ",
+    "day": 1
+   },
+   {
+    "code": "MVLK",
+    "day": 1
+   },
+   {
+    "code": "CNGR",
+    "day": 1
+   },
+   {
+    "code": "TRVL",
+    "day": 1
+   },
+   {
+    "code": "CGY",
+    "day": 1
+   },
+   {
+    "code": "KTYM",
+    "day": 1
+   },
+   {
+    "code": "VARD",
+    "day": 1
+   },
+   {
+    "code": "ERN",
+    "day": 1
+   },
+   {
+    "code": "AWY",
+    "day": 1
+   },
+   {
+    "code": "TCR",
+    "day": 1
+   },
+   {
+    "code": "OTP",
+    "day": 1
+   },
+   {
+    "code": "PGT",
+    "day": 1
+   },
+   {
+    "code": "CBE",
+    "day": 1
+   },
+   {
+    "code": "TUP",
+    "day": 1
+   },
+   {
+    "code": "ED",
+    "day": 1
+   },
+   {
+    "code": "SA",
+    "day": 1
+   },
+   {
+    "code": "JTJ",
+    "day": 2
+   },
+   {
+    "code": "KPD",
+    "day": 2
+   },
+   {
+    "code": "CTO",
+    "day": 2
+   },
+   {
+    "code": "TPTY",
+    "day": 2
+   },
+   {
+    "code": "RU",
+    "day": 2
+   },
+   {
+    "code": "GDR",
+    "day": 2
+   },
+   {
+    "code": "NLR",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "WL",
+    "day": 2
+   },
+   {
+    "code": "RDM",
+    "day": 2
+   },
+   {
+    "code": "SKZR",
+    "day": 2
+   },
+   {
+    "code": "BPQ",
+    "day": 2
+   },
+   {
+    "code": "CD",
+    "day": 2
+   },
+   {
+    "code": "SEGM",
+    "day": 2
+   },
+   {
+    "code": "NGP",
+    "day": 2
+   },
+   {
+    "code": "ET",
+    "day": 3
+   },
+   {
+    "code": "BPL",
+    "day": 3
+   },
+   {
+    "code": "BINA",
+    "day": 3
+   },
+   {
+    "code": "VGLJ",
+    "day": 3
+   },
+   {
+    "code": "GWL",
+    "day": 3
+   },
+   {
+    "code": "AGC",
+    "day": 3
+   },
+   {
+    "code": "MTJ",
+    "day": 3
+   },
+   {
+    "code": "FDB",
+    "day": 3
+   },
+   {
+    "code": "NZM",
+    "day": 3
+   },
+   {
+    "code": "NDLS",
+    "day": 3
+   }
+  ]
+ },
+ "12626": {
+  "at": 1795601646.417015,
+  "halts": [
+   {
+    "code": "NDLS",
+    "day": 1
+   },
+   {
+    "code": "MTJ",
+    "day": 1
+   },
+   {
+    "code": "AGC",
+    "day": 1
+   },
+   {
+    "code": "GWL",
+    "day": 2
+   },
+   {
+    "code": "VGLJ",
+    "day": 2
+   },
+   {
+    "code": "BINA",
+    "day": 2
+   },
+   {
+    "code": "BPL",
+    "day": 2
+   },
+   {
+    "code": "ET",
+    "day": 2
+   },
+   {
+    "code": "NGP",
+    "day": 2
+   },
+   {
+    "code": "SEGM",
+    "day": 2
+   },
+   {
+    "code": "CD",
+    "day": 2
+   },
+   {
+    "code": "BPQ",
+    "day": 2
+   },
+   {
+    "code": "SKZR",
+    "day": 2
+   },
+   {
+    "code": "RDM",
+    "day": 2
+   },
+   {
+    "code": "WL",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "NLR",
+    "day": 3
+   },
+   {
+    "code": "GDR",
+    "day": 3
+   },
+   {
+    "code": "RU",
+    "day": 3
+   },
+   {
+    "code": "TPTY",
+    "day": 3
+   },
+   {
+    "code": "CTO",
+    "day": 3
+   },
+   {
+    "code": "KPD",
+    "day": 3
+   },
+   {
+    "code": "JTJ",
+    "day": 3
+   },
+   {
+    "code": "SA",
+    "day": 3
+   },
+   {
+    "code": "ED",
+    "day": 3
+   },
+   {
+    "code": "TUP",
+    "day": 3
+   },
+   {
+    "code": "CBE",
+    "day": 3
+   },
+   {
+    "code": "PGT",
+    "day": 3
+   },
+   {
+    "code": "OTP",
+    "day": 3
+   },
+   {
+    "code": "TCR",
+    "day": 3
+   },
+   {
+    "code": "AWY",
+    "day": 3
+   },
+   {
+    "code": "ERN",
+    "day": 3
+   },
+   {
+    "code": "VARD",
+    "day": 3
+   },
+   {
+    "code": "KTYM",
+    "day": 3
+   },
+   {
+    "code": "CGY",
+    "day": 3
+   },
+   {
+    "code": "TRVL",
+    "day": 3
+   },
+   {
+    "code": "CNGR",
+    "day": 3
+   },
+   {
+    "code": "MVLK",
+    "day": 3
+   },
+   {
+    "code": "KYJ",
+    "day": 3
+   },
+   {
+    "code": "QLN",
+    "day": 3
+   },
+   {
+    "code": "VAK",
+    "day": 3
+   },
+   {
+    "code": "TVP",
+    "day": 3
+   },
+   {
+    "code": "TVC",
+    "day": 3
+   }
+  ]
+ },
+ "12643": {
+  "at": 1795601707.837778,
+  "halts": [
+   {
+    "code": "TVC",
+    "day": 1
+   },
+   {
+    "code": "QLN",
+    "day": 1
+   },
+   {
+    "code": "KYJ",
+    "day": 1
+   },
+   {
+    "code": "ALLP",
+    "day": 1
+   },
+   {
+    "code": "ERS",
+    "day": 1
+   },
+   {
+    "code": "AWY",
+    "day": 1
+   },
+   {
+    "code": "TCR",
+    "day": 1
+   },
+   {
+    "code": "PGT",
+    "day": 1
+   },
+   {
+    "code": "CBE",
+    "day": 1
+   },
+   {
+    "code": "TUP",
+    "day": 1
+   },
+   {
+    "code": "ED",
+    "day": 2
+   },
+   {
+    "code": "SA",
+    "day": 2
+   },
+   {
+    "code": "KPD",
+    "day": 2
+   },
+   {
+    "code": "CTO",
+    "day": 2
+   },
+   {
+    "code": "TPTY",
+    "day": 2
+   },
+   {
+    "code": "RU",
+    "day": 2
+   },
+   {
+    "code": "GDR",
+    "day": 2
+   },
+   {
+    "code": "OGL",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "WL",
+    "day": 2
+   },
+   {
+    "code": "BPQ",
+    "day": 2
+   },
+   {
+    "code": "NGP",
+    "day": 3
+   },
+   {
+    "code": "AMLA",
+    "day": 3
+   },
+   {
+    "code": "BZU",
+    "day": 3
+   },
+   {
+    "code": "ET",
+    "day": 3
+   },
+   {
+    "code": "BPL",
+    "day": 3
+   },
+   {
+    "code": "BINA",
+    "day": 3
+   },
+   {
+    "code": "VGLJ",
+    "day": 3
+   },
+   {
+    "code": "GWL",
+    "day": 3
+   },
+   {
+    "code": "AGC",
+    "day": 3
+   },
+   {
+    "code": "MTJ",
+    "day": 3
+   },
+   {
+    "code": "NZM",
+    "day": 3
+   }
+  ]
+ },
+ "12644": {
+  "at": 1795601646.8677657,
+  "halts": [
+   {
+    "code": "NZM",
+    "day": 1
+   },
+   {
+    "code": "MTJ",
+    "day": 1
+   },
+   {
+    "code": "AGC",
+    "day": 1
+   },
+   {
+    "code": "GWL",
+    "day": 1
+   },
+   {
+    "code": "VGLJ",
+    "day": 1
+   },
+   {
+    "code": "BINA",
+    "day": 1
+   },
+   {
+    "code": "BPL",
+    "day": 1
+   },
+   {
+    "code": "ET",
+    "day": 1
+   },
+   {
+    "code": "BZU",
+    "day": 1
+   },
+   {
+    "code": "AMLA",
+    "day": 1
+   },
+   {
+    "code": "NGP",
+    "day": 1
+   },
+   {
+    "code": "BPQ",
+    "day": 2
+   },
+   {
+    "code": "WL",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "GDR",
+    "day": 2
+   },
+   {
+    "code": "RU",
+    "day": 2
+   },
+   {
+    "code": "TPTY",
+    "day": 2
+   },
+   {
+    "code": "CTO",
+    "day": 2
+   },
+   {
+    "code": "KPD",
+    "day": 2
+   },
+   {
+    "code": "SA",
+    "day": 2
+   },
+   {
+    "code": "ED",
+    "day": 2
+   },
+   {
+    "code": "TUP",
+    "day": 2
+   },
+   {
+    "code": "CBE",
+    "day": 2
+   },
+   {
+    "code": "PGT",
+    "day": 2
+   },
+   {
+    "code": "TCR",
+    "day": 3
+   },
+   {
+    "code": "AWY",
+    "day": 3
+   },
+   {
+    "code": "ERS",
+    "day": 3
+   },
+   {
+    "code": "ALLP",
+    "day": 3
+   },
+   {
+    "code": "KYJ",
+    "day": 3
+   },
+   {
+    "code": "QLN",
+    "day": 3
+   },
+   {
+    "code": "TVC",
+    "day": 3
+   }
+  ]
+ },
+ "12659": {
+  "at": 1795601681.6531253,
+  "halts": [
+   {
+    "code": "NCJ",
+    "day": 1
+   },
+   {
+    "code": "TVC",
+    "day": 1
+   },
+   {
+    "code": "VAK",
+    "day": 1
+   },
+   {
+    "code": "QLN",
+    "day": 1
+   },
+   {
+    "code": "KYJ",
+    "day": 1
+   },
+   {
+    "code": "CNGR",
+    "day": 1
+   },
+   {
+    "code": "TRVL",
+    "day": 1
+   },
+   {
+    "code": "KTYM",
+    "day": 1
+   },
+   {
+    "code": "ERN",
+    "day": 1
+   },
+   {
+    "code": "AWY",
+    "day": 1
+   },
+   {
+    "code": "TCR",
+    "day": 1
+   },
+   {
+    "code": "PGT",
+    "day": 1
+   },
+   {
+    "code": "CBE",
+    "day": 2
+   },
+   {
+    "code": "ED",
+    "day": 2
+   },
+   {
+    "code": "SA",
+    "day": 2
+   },
+   {
+    "code": "JTJ",
+    "day": 2
+   },
+   {
+    "code": "KPD",
+    "day": 2
+   },
+   {
+    "code": "CTO",
+    "day": 2
+   },
+   {
+    "code": "TPTY",
+    "day": 2
+   },
+   {
+    "code": "RU",
+    "day": 2
+   },
+   {
+    "code": "GDR",
+    "day": 2
+   },
+   {
+    "code": "NLR",
+    "day": 2
+   },
+   {
+    "code": "OGL",
+    "day": 2
+   },
+   {
+    "code": "CLX",
+    "day": 2
+   },
+   {
+    "code": "TEL",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "EE",
+    "day": 2
+   },
+   {
+    "code": "RJY",
+    "day": 2
+   },
+   {
+    "code": "SLO",
+    "day": 2
+   },
+   {
+    "code": "VSKP",
+    "day": 2
+   },
+   {
+    "code": "VZM",
+    "day": 2
+   },
+   {
+    "code": "CHE",
+    "day": 2
+   },
+   {
+    "code": "PSA",
+    "day": 3
+   },
+   {
+    "code": "BAM",
+    "day": 3
+   },
+   {
+    "code": "BALU",
+    "day": 3
+   },
+   {
+    "code": "KUR",
+    "day": 3
+   },
+   {
+    "code": "BBS",
+    "day": 3
+   },
+   {
+    "code": "CTC",
+    "day": 3
+   },
+   {
+    "code": "JJKR",
+    "day": 3
+   },
+   {
+    "code": "BHC",
+    "day": 3
+   },
+   {
+    "code": "BLS",
+    "day": 3
+   },
+   {
+    "code": "KGP",
+    "day": 3
+   },
+   {
+    "code": "SRC",
+    "day": 3
+   },
+   {
+    "code": "SHM",
+    "day": 3
+   }
+  ]
+ },
+ "12660": {
+  "at": 1795601648.442822,
+  "halts": [
+   {
+    "code": "SHM",
+    "day": 1
+   },
+   {
+    "code": "SRC",
+    "day": 2
+   },
+   {
+    "code": "KGP",
+    "day": 2
+   },
+   {
+    "code": "BLS",
+    "day": 2
+   },
+   {
+    "code": "BHC",
+    "day": 2
+   },
+   {
+    "code": "JJKR",
+    "day": 2
+   },
+   {
+    "code": "CTC",
+    "day": 2
+   },
+   {
+    "code": "BBS",
+    "day": 2
+   },
+   {
+    "code": "KUR",
+    "day": 2
+   },
+   {
+    "code": "BALU",
+    "day": 2
+   },
+   {
+    "code": "BAM",
+    "day": 2
+   },
+   {
+    "code": "PSA",
+    "day": 2
+   },
+   {
+    "code": "CHE",
+    "day": 2
+   },
+   {
+    "code": "VZM",
+    "day": 2
+   },
+   {
+    "code": "VSKP",
+    "day": 2
+   },
+   {
+    "code": "SLO",
+    "day": 2
+   },
+   {
+    "code": "RJY",
+    "day": 2
+   },
+   {
+    "code": "EE",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "TEL",
+    "day": 2
+   },
+   {
+    "code": "CLX",
+    "day": 2
+   },
+   {
+    "code": "OGL",
+    "day": 2
+   },
+   {
+    "code": "NLR",
+    "day": 2
+   },
+   {
+    "code": "GDR",
+    "day": 3
+   },
+   {
+    "code": "RU",
+    "day": 3
+   },
+   {
+    "code": "TPTY",
+    "day": 3
+   },
+   {
+    "code": "CTO",
+    "day": 3
+   },
+   {
+    "code": "KPD",
+    "day": 3
+   },
+   {
+    "code": "JTJ",
+    "day": 3
+   },
+   {
+    "code": "SA",
+    "day": 3
+   },
+   {
+    "code": "ED",
+    "day": 3
+   },
+   {
+    "code": "CBE",
+    "day": 3
+   },
+   {
+    "code": "PGT",
+    "day": 3
+   },
+   {
+    "code": "TCR",
+    "day": 3
+   },
+   {
+    "code": "AWY",
+    "day": 3
+   },
+   {
+    "code": "ERN",
+    "day": 3
+   },
+   {
+    "code": "KTYM",
+    "day": 3
+   },
+   {
+    "code": "TRVL",
+    "day": 3
+   },
+   {
+    "code": "CNGR",
+    "day": 3
+   },
+   {
+    "code": "KYJ",
+    "day": 3
+   },
+   {
+    "code": "QLN",
+    "day": 3
+   },
+   {
+    "code": "VAK",
+    "day": 3
+   },
+   {
+    "code": "TVC",
+    "day": 3
+   },
+   {
+    "code": "NCJ",
+    "day": 3
+   }
+  ]
+ },
+ "15607": {
+  "at": 1795601682.1190178,
+  "halts": [
+   {
+    "code": "TVC",
+    "day": 1
+   },
+   {
+    "code": "QLN",
+    "day": 1
+   },
+   {
+    "code": "KYJ",
+    "day": 1
+   },
+   {
+    "code": "MVLK",
+    "day": 1
+   },
+   {
+    "code": "CNGR",
+    "day": 1
+   },
+   {
+    "code": "TRVL",
+    "day": 1
+   },
+   {
+    "code": "KTYM",
+    "day": 1
+   },
+   {
+    "code": "ERN",
+    "day": 1
+   },
+   {
+    "code": "AWY",
+    "day": 1
+   },
+   {
+    "code": "TCR",
+    "day": 1
+   },
+   {
+    "code": "PGT",
+    "day": 2
+   },
+   {
+    "code": "CBE",
+    "day": 2
+   },
+   {
+    "code": "TUP",
+    "day": 2
+   },
+   {
+    "code": "ED",
+    "day": 2
+   },
+   {
+    "code": "SA",
+    "day": 2
+   },
+   {
+    "code": "JTJ",
+    "day": 2
+   },
+   {
+    "code": "KPD",
+    "day": 2
+   },
+   {
+    "code": "AJJ",
+    "day": 2
+   },
+   {
+    "code": "PER",
+    "day": 2
+   },
+   {
+    "code": "OGL",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "RJY",
+    "day": 2
+   },
+   {
+    "code": "VSKP",
+    "day": 2
+   },
+   {
+    "code": "VZM",
+    "day": 2
+   },
+   {
+    "code": "CHE",
+    "day": 2
+   },
+   {
+    "code": "PSA",
+    "day": 3
+   },
+   {
+    "code": "BAM",
+    "day": 3
+   },
+   {
+    "code": "BALU",
+    "day": 3
+   },
+   {
+    "code": "KUR",
+    "day": 3
+   },
+   {
+    "code": "BBS",
+    "day": 3
+   },
+   {
+    "code": "CTC",
+    "day": 3
+   },
+   {
+    "code": "JJKR",
+    "day": 3
+   },
+   {
+    "code": "BHC",
+    "day": 3
+   },
+   {
+    "code": "BLS",
+    "day": 3
+   },
+   {
+    "code": "KGP",
+    "day": 3
+   },
+   {
+    "code": "DKAE",
+    "day": 3
+   },
+   {
+    "code": "BHP",
+    "day": 3
+   },
+   {
+    "code": "RPH",
+    "day": 3
+   },
+   {
+    "code": "PKR",
+    "day": 3
+   },
+   {
+    "code": "MLDT",
+    "day": 3
+   },
+   {
+    "code": "KNE",
+    "day": 3
+   },
+   {
+    "code": "NJP",
+    "day": 3
+   },
+   {
+    "code": "DQG",
+    "day": 3
+   },
+   {
+    "code": "NCB",
+    "day": 3
+   },
+   {
+    "code": "NOQ",
+    "day": 3
+   },
+   {
+    "code": "KOJ",
+    "day": 4
+   },
+   {
+    "code": "NBQ",
+    "day": 4
+   },
+   {
+    "code": "BPRD",
+    "day": 4
+   },
+   {
+    "code": "RNY",
+    "day": 4
+   },
+   {
+    "code": "KYQ",
+    "day": 4
+   },
+   {
+    "code": "GHY",
+    "day": 4
+   },
+   {
+    "code": "HJI",
+    "day": 4
+   },
+   {
+    "code": "LMG",
+    "day": 4
+   },
+   {
+    "code": "MBG",
+    "day": 4
+   },
+   {
+    "code": "NHLG",
+    "day": 4
+   },
+   {
+    "code": "BPB",
+    "day": 4
+   },
+   {
+    "code": "SCL",
+    "day": 4
+   }
+  ]
+ },
+ "15608": {
+  "at": 1795601649.15895,
+  "halts": [
+   {
+    "code": "SCL",
+    "day": 1
+   },
+   {
+    "code": "BPB",
+    "day": 1
+   },
+   {
+    "code": "NHLG",
+    "day": 1
+   },
+   {
+    "code": "MBG",
+    "day": 1
+   },
+   {
+    "code": "LMG",
+    "day": 2
+   },
+   {
+    "code": "HJI",
+    "day": 2
+   },
+   {
+    "code": "GHY",
+    "day": 2
+   },
+   {
+    "code": "KYQ",
+    "day": 2
+   },
+   {
+    "code": "RNY",
+    "day": 2
+   },
+   {
+    "code": "BPRD",
+    "day": 2
+   },
+   {
+    "code": "NBQ",
+    "day": 2
+   },
+   {
+    "code": "KOJ",
+    "day": 2
+   },
+   {
+    "code": "NOQ",
+    "day": 2
+   },
+   {
+    "code": "NCB",
+    "day": 2
+   },
+   {
+    "code": "DQG",
+    "day": 2
+   },
+   {
+    "code": "NJP",
+    "day": 2
+   },
+   {
+    "code": "KNE",
+    "day": 2
+   },
+   {
+    "code": "MLDT",
+    "day": 2
+   },
+   {
+    "code": "PKR",
+    "day": 2
+   },
+   {
+    "code": "RPH",
+    "day": 2
+   },
+   {
+    "code": "BHP",
+    "day": 2
+   },
+   {
+    "code": "DKAE",
+    "day": 3
+   },
+   {
+    "code": "KGP",
+    "day": 3
+   },
+   {
+    "code": "BLS",
+    "day": 3
+   },
+   {
+    "code": "BHC",
+    "day": 3
+   },
+   {
+    "code": "JJKR",
+    "day": 3
+   },
+   {
+    "code": "CTC",
+    "day": 3
+   },
+   {
+    "code": "BBS",
+    "day": 3
+   },
+   {
+    "code": "KUR",
+    "day": 3
+   },
+   {
+    "code": "BALU",
+    "day": 3
+   },
+   {
+    "code": "BAM",
+    "day": 3
+   },
+   {
+    "code": "PSA",
+    "day": 3
+   },
+   {
+    "code": "CHE",
+    "day": 3
+   },
+   {
+    "code": "VZM",
+    "day": 3
+   },
+   {
+    "code": "VSKP",
+    "day": 3
+   },
+   {
+    "code": "RJY",
+    "day": 3
+   },
+   {
+    "code": "BZA",
+    "day": 3
+   },
+   {
+    "code": "PER",
+    "day": 4
+   },
+   {
+    "code": "AJJ",
+    "day": 4
+   },
+   {
+    "code": "KPD",
+    "day": 4
+   },
+   {
+    "code": "JTJ",
+    "day": 4
+   },
+   {
+    "code": "SA",
+    "day": 4
+   },
+   {
+    "code": "ED",
+    "day": 4
+   },
+   {
+    "code": "TUP",
+    "day": 4
+   },
+   {
+    "code": "CBE",
+    "day": 4
+   },
+   {
+    "code": "PGT",
+    "day": 4
+   },
+   {
+    "code": "TCR",
+    "day": 4
+   },
+   {
+    "code": "AWY",
+    "day": 4
+   },
+   {
+    "code": "ERN",
+    "day": 4
+   },
+   {
+    "code": "KTYM",
+    "day": 4
+   },
+   {
+    "code": "TRVL",
+    "day": 4
+   },
+   {
+    "code": "CNGR",
+    "day": 4
+   },
+   {
+    "code": "MVLK",
+    "day": 4
+   },
+   {
+    "code": "KYJ",
+    "day": 4
+   },
+   {
+    "code": "QLN",
+    "day": 4
+   },
+   {
+    "code": "TVC",
+    "day": 4
+   }
+  ]
+ },
+ "16317": {
+  "at": 1795601682.7590346,
+  "halts": [
+   {
+    "code": "CAPE",
+    "day": 1
+   },
+   {
+    "code": "NCJ",
+    "day": 1
+   },
+   {
+    "code": "KZT",
+    "day": 1
+   },
+   {
+    "code": "TVC",
+    "day": 1
+   },
+   {
+    "code": "QLN",
+    "day": 1
+   },
+   {
+    "code": "KYJ",
+    "day": 1
+   },
+   {
+    "code": "CNGR",
+    "day": 1
+   },
+   {
+    "code": "TRVL",
+    "day": 1
+   },
+   {
+    "code": "KTYM",
+    "day": 1
+   },
+   {
+    "code": "ERN",
+    "day": 1
+   },
+   {
+    "code": "AWY",
+    "day": 1
+   },
+   {
+    "code": "TCR",
+    "day": 1
+   },
+   {
+    "code": "OTP",
+    "day": 1
+   },
+   {
+    "code": "PGT",
+    "day": 1
+   },
+   {
+    "code": "CBE",
+    "day": 2
+   },
+   {
+    "code": "TUP",
+    "day": 2
+   },
+   {
+    "code": "ED",
+    "day": 2
+   },
+   {
+    "code": "SA",
+    "day": 2
+   },
+   {
+    "code": "JTJ",
+    "day": 2
+   },
+   {
+    "code": "KPD",
+    "day": 2
+   },
+   {
+    "code": "CTO",
+    "day": 2
+   },
+   {
+    "code": "TPTY",
+    "day": 2
+   },
+   {
+    "code": "RU",
+    "day": 2
+   },
+   {
+    "code": "GDR",
+    "day": 2
+   },
+   {
+    "code": "NLR",
+    "day": 2
+   },
+   {
+    "code": "OGL",
+    "day": 2
+   },
+   {
+    "code": "TEL",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "KMT",
+    "day": 2
+   },
+   {
+    "code": "WL",
+    "day": 2
+   },
+   {
+    "code": "RDM",
+    "day": 2
+   },
+   {
+    "code": "BPQ",
+    "day": 2
+   },
+   {
+    "code": "CD",
+    "day": 2
+   },
+   {
+    "code": "SEGM",
+    "day": 3
+   },
+   {
+    "code": "NGP",
+    "day": 3
+   },
+   {
+    "code": "ET",
+    "day": 3
+   },
+   {
+    "code": "BPL",
+    "day": 3
+   },
+   {
+    "code": "VGLJ",
+    "day": 3
+   },
+   {
+    "code": "GWL",
+    "day": 3
+   },
+   {
+    "code": "DHO",
+    "day": 3
+   },
+   {
+    "code": "AGC",
+    "day": 3
+   },
+   {
+    "code": "FDB",
+    "day": 3
+   },
+   {
+    "code": "NZM",
+    "day": 3
+   },
+   {
+    "code": "NDLS",
+    "day": 3
+   },
+   {
+    "code": "SSB",
+    "day": 3
+   },
+   {
+    "code": "BGZ",
+    "day": 3
+   },
+   {
+    "code": "ROK",
+    "day": 3
+   },
+   {
+    "code": "JIND",
+    "day": 3
+   },
+   {
+    "code": "NRW",
+    "day": 3
+   },
+   {
+    "code": "TUN",
+    "day": 4
+   },
+   {
+    "code": "JHL",
+    "day": 4
+   },
+   {
+    "code": "LHA",
+    "day": 4
+   },
+   {
+    "code": "SFMU",
+    "day": 4
+   },
+   {
+    "code": "SAG",
+    "day": 4
+   },
+   {
+    "code": "DUI",
+    "day": 4
+   },
+   {
+    "code": "MET",
+    "day": 4
+   },
+   {
+    "code": "AHH",
+    "day": 4
+   },
+   {
+    "code": "LDH",
+    "day": 4
+   },
+   {
+    "code": "PGW",
+    "day": 4
+   },
+   {
+    "code": "JRC",
+    "day": 4
+   },
+   {
+    "code": "MEX",
+    "day": 4
+   },
+   {
+    "code": "PTKC",
+    "day": 4
+   },
+   {
+    "code": "MSKT",
+    "day": 4
+   },
+   {
+    "code": "SMBX",
+    "day": 4
+   },
+   {
+    "code": "JAT",
+    "day": 4
+   },
+   {
+    "code": "MCTM",
+    "day": 4
+   },
+   {
+    "code": "SVDK",
+    "day": 4
+   }
+  ]
+ },
+ "16318": {
+  "at": 1795601649.8096101,
+  "halts": [
+   {
+    "code": "SVDK",
+    "day": 1
+   },
+   {
+    "code": "MCTM",
+    "day": 1
+   },
+   {
+    "code": "JAT",
+    "day": 2
+   },
+   {
+    "code": "MSKT",
+    "day": 2
+   },
+   {
+    "code": "PTKC",
+    "day": 2
+   },
+   {
+    "code": "MEX",
+    "day": 2
+   },
+   {
+    "code": "JRC",
+    "day": 2
+   },
+   {
+    "code": "PGW",
+    "day": 2
+   },
+   {
+    "code": "PHR",
+    "day": 2
+   },
+   {
+    "code": "LDH",
+    "day": 2
+   },
+   {
+    "code": "AHH",
+    "day": 2
+   },
+   {
+    "code": "MET",
+    "day": 2
+   },
+   {
+    "code": "DUI",
+    "day": 2
+   },
+   {
+    "code": "SAG",
+    "day": 2
+   },
+   {
+    "code": "SFMU",
+    "day": 2
+   },
+   {
+    "code": "LHA",
+    "day": 2
+   },
+   {
+    "code": "JHL",
+    "day": 2
+   },
+   {
+    "code": "TUN",
+    "day": 2
+   },
+   {
+    "code": "NRW",
+    "day": 2
+   },
+   {
+    "code": "UCA",
+    "day": 2
+   },
+   {
+    "code": "BZO",
+    "day": 2
+   },
+   {
+    "code": "JIND",
+    "day": 2
+   },
+   {
+    "code": "JNA",
+    "day": 2
+   },
+   {
+    "code": "ROK",
+    "day": 2
+   },
+   {
+    "code": "BGZ",
+    "day": 2
+   },
+   {
+    "code": "SSB",
+    "day": 2
+   },
+   {
+    "code": "NDLS",
+    "day": 2
+   },
+   {
+    "code": "NZM",
+    "day": 2
+   },
+   {
+    "code": "FDB",
+    "day": 2
+   },
+   {
+    "code": "AGC",
+    "day": 2
+   },
+   {
+    "code": "DHO",
+    "day": 2
+   },
+   {
+    "code": "GWL",
+    "day": 2
+   },
+   {
+    "code": "VGLJ",
+    "day": 2
+   },
+   {
+    "code": "BPL",
+    "day": 3
+   },
+   {
+    "code": "ET",
+    "day": 3
+   },
+   {
+    "code": "NGP",
+    "day": 3
+   },
+   {
+    "code": "SEGM",
+    "day": 3
+   },
+   {
+    "code": "CD",
+    "day": 3
+   },
+   {
+    "code": "BPQ",
+    "day": 3
+   },
+   {
+    "code": "RDM",
+    "day": 3
+   },
+   {
+    "code": "WL",
+    "day": 3
+   },
+   {
+    "code": "KMT",
+    "day": 3
+   },
+   {
+    "code": "BZA",
+    "day": 3
+   },
+   {
+    "code": "TEL",
+    "day": 3
+   },
+   {
+    "code": "OGL",
+    "day": 3
+   },
+   {
+    "code": "NLR",
+    "day": 4
+   },
+   {
+    "code": "RU",
+    "day": 4
+   },
+   {
+    "code": "TPTY",
+    "day": 4
+   },
+   {
+    "code": "CTO",
+    "day": 4
+   },
+   {
+    "code": "KPD",
+    "day": 4
+   },
+   {
+    "code": "JTJ",
+    "day": 4
+   },
+   {
+    "code": "SA",
+    "day": 4
+   },
+   {
+    "code": "ED",
+    "day": 4
+   },
+   {
+    "code": "TUP",
+    "day": 4
+   },
+   {
+    "code": "CBE",
+    "day": 4
+   },
+   {
+    "code": "PGT",
+    "day": 4
+   },
+   {
+    "code": "OTP",
+    "day": 4
+   },
+   {
+    "code": "TCR",
+    "day": 4
+   },
+   {
+    "code": "AWY",
+    "day": 4
+   },
+   {
+    "code": "ERN",
+    "day": 4
+   },
+   {
+    "code": "KTYM",
+    "day": 4
+   },
+   {
+    "code": "TRVL",
+    "day": 4
+   },
+   {
+    "code": "CNGR",
+    "day": 4
+   },
+   {
+    "code": "KYJ",
+    "day": 4
+   },
+   {
+    "code": "QLN",
+    "day": 4
+   },
+   {
+    "code": "TVP",
+    "day": 4
+   },
+   {
+    "code": "TVC",
+    "day": 4
+   },
+   {
+    "code": "KZT",
+    "day": 4
+   },
+   {
+    "code": "NCJ",
+    "day": 4
+   },
+   {
+    "code": "CAPE",
+    "day": 4
+   }
+  ]
+ },
+ "18501": {
+  "at": 1795601650.252485,
+  "halts": [
+   {
+    "code": "VSKP",
+    "day": 1
+   },
+   {
+    "code": "DVD",
+    "day": 1
+   },
+   {
+    "code": "SLO",
+    "day": 1
+   },
+   {
+    "code": "RJY",
+    "day": 1
+   },
+   {
+    "code": "TDD",
+    "day": 1
+   },
+   {
+    "code": "EE",
+    "day": 1
+   },
+   {
+    "code": "BZA",
+    "day": 1
+   },
+   {
+    "code": "TEL",
+    "day": 1
+   },
+   {
+    "code": "OGL",
+    "day": 1
+   },
+   {
+    "code": "NLR",
+    "day": 1
+   },
+   {
+    "code": "GDR",
+    "day": 1
+   },
+   {
+    "code": "RU",
+    "day": 1
+   },
+   {
+    "code": "KPD",
+    "day": 2
+   },
+   {
+    "code": "JTJ",
+    "day": 2
+   },
+   {
+    "code": "SA",
+    "day": 2
+   },
+   {
+    "code": "ED",
+    "day": 2
+   },
+   {
+    "code": "TUP",
+    "day": 2
+   },
+   {
+    "code": "PTJ",
+    "day": 2
+   },
+   {
+    "code": "PGT",
+    "day": 2
+   },
+   {
+    "code": "TCR",
+    "day": 2
+   },
+   {
+    "code": "AWY",
+    "day": 2
+   },
+   {
+    "code": "ERN",
+    "day": 2
+   },
+   {
+    "code": "KTYM",
+    "day": 2
+   },
+   {
+    "code": "TRVL",
+    "day": 2
+   },
+   {
+    "code": "CNGR",
+    "day": 2
+   },
+   {
+    "code": "KYJ",
+    "day": 2
+   },
+   {
+    "code": "QLN",
+    "day": 2
+   }
+  ]
+ },
+ "18567": {
+  "at": 1795601650.5327582,
+  "halts": [
+   {
+    "code": "VSKP",
+    "day": 1
+   },
+   {
+    "code": "DVD",
+    "day": 1
+   },
+   {
+    "code": "YLM",
+    "day": 1
+   },
+   {
+    "code": "SLO",
+    "day": 1
+   },
+   {
+    "code": "RJY",
+    "day": 1
+   },
+   {
+    "code": "EE",
+    "day": 1
+   },
+   {
+    "code": "BZA",
+    "day": 1
+   },
+   {
+    "code": "TEL",
+    "day": 1
+   },
+   {
+    "code": "BPP",
+    "day": 1
+   },
+   {
+    "code": "OGL",
+    "day": 1
+   },
+   {
+    "code": "SKM",
+    "day": 1
+   },
+   {
+    "code": "NLR",
+    "day": 1
+   },
+   {
+    "code": "GDR",
+    "day": 1
+   },
+   {
+    "code": "RU",
+    "day": 1
+   },
+   {
+    "code": "KPD",
+    "day": 1
+   },
+   {
+    "code": "JTJ",
+    "day": 1
+   },
+   {
+    "code": "SA",
+    "day": 2
+   },
+   {
+    "code": "ED",
+    "day": 2
+   },
+   {
+    "code": "TUP",
+    "day": 2
+   },
+   {
+    "code": "CBE",
+    "day": 2
+   },
+   {
+    "code": "PGT",
+    "day": 2
+   },
+   {
+    "code": "TCR",
+    "day": 2
+   },
+   {
+    "code": "IJK",
+    "day": 2
+   },
+   {
+    "code": "AWY",
+    "day": 2
+   },
+   {
+    "code": "ERN",
+    "day": 2
+   },
+   {
+    "code": "KTYM",
+    "day": 2
+   },
+   {
+    "code": "CGY",
+    "day": 2
+   },
+   {
+    "code": "TRVL",
+    "day": 2
+   },
+   {
+    "code": "CNGR",
+    "day": 2
+   },
+   {
+    "code": "MVLK",
+    "day": 2
+   },
+   {
+    "code": "KYJ",
+    "day": 2
+   },
+   {
+    "code": "KPY",
+    "day": 2
+   },
+   {
+    "code": "STKT",
+    "day": 2
+   },
+   {
+    "code": "QLN",
+    "day": 2
+   }
+  ]
+ },
+ "18568": {
+  "at": 1795601683.0120306,
+  "halts": [
+   {
+    "code": "QLN",
+    "day": 1
+   },
+   {
+    "code": "STKT",
+    "day": 1
+   },
+   {
+    "code": "KPY",
+    "day": 1
+   },
+   {
+    "code": "KYJ",
+    "day": 1
+   },
+   {
+    "code": "MVLK",
+    "day": 1
+   },
+   {
+    "code": "CNGR",
+    "day": 1
+   },
+   {
+    "code": "TRVL",
+    "day": 1
+   },
+   {
+    "code": "CGY",
+    "day": 1
+   },
+   {
+    "code": "KTYM",
+    "day": 1
+   },
+   {
+    "code": "ERN",
+    "day": 1
+   },
+   {
+    "code": "AWY",
+    "day": 1
+   },
+   {
+    "code": "IJK",
+    "day": 1
+   },
+   {
+    "code": "TCR",
+    "day": 2
+   },
+   {
+    "code": "PGT",
+    "day": 2
+   },
+   {
+    "code": "CBE",
+    "day": 2
+   },
+   {
+    "code": "TUP",
+    "day": 2
+   },
+   {
+    "code": "ED",
+    "day": 2
+   },
+   {
+    "code": "SA",
+    "day": 2
+   },
+   {
+    "code": "JTJ",
+    "day": 2
+   },
+   {
+    "code": "KPD",
+    "day": 2
+   },
+   {
+    "code": "RU",
+    "day": 2
+   },
+   {
+    "code": "GDR",
+    "day": 2
+   },
+   {
+    "code": "NLR",
+    "day": 2
+   },
+   {
+    "code": "SKM",
+    "day": 2
+   },
+   {
+    "code": "OGL",
+    "day": 2
+   },
+   {
+    "code": "BPP",
+    "day": 2
+   },
+   {
+    "code": "TEL",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "EE",
+    "day": 2
+   },
+   {
+    "code": "RJY",
+    "day": 2
+   },
+   {
+    "code": "SLO",
+    "day": 2
+   },
+   {
+    "code": "YLM",
+    "day": 2
+   },
+   {
+    "code": "DVD",
+    "day": 2
+   },
+   {
+    "code": "VSKP",
+    "day": 2
+   }
+  ]
+ },
+ "22503": {
+  "at": 1795601683.859475,
+  "halts": [
+   {
+    "code": "CAPE",
+    "day": 1
+   },
+   {
+    "code": "NCJ",
+    "day": 1
+   },
+   {
+    "code": "TVC",
+    "day": 1
+   },
+   {
+    "code": "QLN",
+    "day": 1
+   },
+   {
+    "code": "CNGR",
+    "day": 1
+   },
+   {
+    "code": "KTYM",
+    "day": 1
+   },
+   {
+    "code": "ERN",
+    "day": 1
+   },
+   {
+    "code": "AWY",
+    "day": 2
+   },
+   {
+    "code": "TCR",
+    "day": 2
+   },
+   {
+    "code": "PGT",
+    "day": 2
+   },
+   {
+    "code": "CBE",
+    "day": 2
+   },
+   {
+    "code": "TUP",
+    "day": 2
+   },
+   {
+    "code": "ED",
+    "day": 2
+   },
+   {
+    "code": "SA",
+    "day": 2
+   },
+   {
+    "code": "KPD",
+    "day": 2
+   },
+   {
+    "code": "RU",
+    "day": 2
+   },
+   {
+    "code": "NLR",
+    "day": 2
+   },
+   {
+    "code": "OGL",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "EE",
+    "day": 2
+   },
+   {
+    "code": "RJY",
+    "day": 2
+   },
+   {
+    "code": "SLO",
+    "day": 2
+   },
+   {
+    "code": "DVD",
+    "day": 2
+   },
+   {
+    "code": "VSKP",
+    "day": 3
+   },
+   {
+    "code": "VZM",
+    "day": 3
+   },
+   {
+    "code": "CHE",
+    "day": 3
+   },
+   {
+    "code": "PSA",
+    "day": 3
+   },
+   {
+    "code": "BAM",
+    "day": 3
+   },
+   {
+    "code": "KUR",
+    "day": 3
+   },
+   {
+    "code": "BBS",
+    "day": 3
+   },
+   {
+    "code": "CTC",
+    "day": 3
+   },
+   {
+    "code": "BHC",
+    "day": 3
+   },
+   {
+    "code": "BLS",
+    "day": 3
+   },
+   {
+    "code": "KGP",
+    "day": 3
+   },
+   {
+    "code": "DKAE",
+    "day": 3
+   },
+   {
+    "code": "BWN",
+    "day": 3
+   },
+   {
+    "code": "RPH",
+    "day": 3
+   },
+   {
+    "code": "MLDT",
+    "day": 3
+   },
+   {
+    "code": "KNE",
+    "day": 3
+   },
+   {
+    "code": "NJP",
+    "day": 3
+   },
+   {
+    "code": "JPE",
+    "day": 4
+   },
+   {
+    "code": "MHBA",
+    "day": 4
+   },
+   {
+    "code": "NCB",
+    "day": 4
+   },
+   {
+    "code": "NOQ",
+    "day": 4
+   },
+   {
+    "code": "KOJ",
+    "day": 4
+   },
+   {
+    "code": "NBQ",
+    "day": 4
+   },
+   {
+    "code": "AYU",
+    "day": 4
+   },
+   {
+    "code": "GLPT",
+    "day": 4
+   },
+   {
+    "code": "GHY",
+    "day": 4
+   },
+   {
+    "code": "JID",
+    "day": 4
+   },
+   {
+    "code": "HJI",
+    "day": 4
+   },
+   {
+    "code": "LMG",
+    "day": 4
+   },
+   {
+    "code": "DPU",
+    "day": 4
+   },
+   {
+    "code": "DMV",
+    "day": 4
+   },
+   {
+    "code": "FKG",
+    "day": 4
+   },
+   {
+    "code": "MXN",
+    "day": 4
+   },
+   {
+    "code": "SLGR",
+    "day": 4
+   },
+   {
+    "code": "NHK",
+    "day": 4
+   },
+   {
+    "code": "NTSK",
+    "day": 4
+   },
+   {
+    "code": "DBRG",
+    "day": 4
+   }
+  ]
+ },
+ "22504": {
+  "at": 1795601651.3931541,
+  "halts": [
+   {
+    "code": "DBRG",
+    "day": 1
+   },
+   {
+    "code": "NTSK",
+    "day": 1
+   },
+   {
+    "code": "NHK",
+    "day": 1
+   },
+   {
+    "code": "SLGR",
+    "day": 1
+   },
+   {
+    "code": "MXN",
+    "day": 1
+   },
+   {
+    "code": "FKG",
+    "day": 1
+   },
+   {
+    "code": "DMV",
+    "day": 2
+   },
+   {
+    "code": "DPU",
+    "day": 2
+   },
+   {
+    "code": "LMG",
+    "day": 2
+   },
+   {
+    "code": "HJI",
+    "day": 2
+   },
+   {
+    "code": "JID",
+    "day": 2
+   },
+   {
+    "code": "GHY",
+    "day": 2
+   },
+   {
+    "code": "GLPT",
+    "day": 2
+   },
+   {
+    "code": "AYU",
+    "day": 2
+   },
+   {
+    "code": "NBQ",
+    "day": 2
+   },
+   {
+    "code": "KOJ",
+    "day": 2
+   },
+   {
+    "code": "NOQ",
+    "day": 2
+   },
+   {
+    "code": "NCB",
+    "day": 2
+   },
+   {
+    "code": "MHBA",
+    "day": 2
+   },
+   {
+    "code": "JPE",
+    "day": 2
+   },
+   {
+    "code": "NJP",
+    "day": 2
+   },
+   {
+    "code": "KNE",
+    "day": 2
+   },
+   {
+    "code": "MLDT",
+    "day": 2
+   },
+   {
+    "code": "RPH",
+    "day": 2
+   },
+   {
+    "code": "BWN",
+    "day": 3
+   },
+   {
+    "code": "DKAE",
+    "day": 3
+   },
+   {
+    "code": "KGP",
+    "day": 3
+   },
+   {
+    "code": "BLS",
+    "day": 3
+   },
+   {
+    "code": "BHC",
+    "day": 3
+   },
+   {
+    "code": "CTC",
+    "day": 3
+   },
+   {
+    "code": "BBS",
+    "day": 3
+   },
+   {
+    "code": "KUR",
+    "day": 3
+   },
+   {
+    "code": "BAM",
+    "day": 3
+   },
+   {
+    "code": "PSA",
+    "day": 3
+   },
+   {
+    "code": "CHE",
+    "day": 3
+   },
+   {
+    "code": "VZM",
+    "day": 3
+   },
+   {
+    "code": "VSKP",
+    "day": 3
+   },
+   {
+    "code": "DVD",
+    "day": 3
+   },
+   {
+    "code": "SLO",
+    "day": 3
+   },
+   {
+    "code": "RJY",
+    "day": 3
+   },
+   {
+    "code": "EE",
+    "day": 3
+   },
+   {
+    "code": "BZA",
+    "day": 3
+   },
+   {
+    "code": "OGL",
+    "day": 3
+   },
+   {
+    "code": "NLR",
+    "day": 4
+   },
+   {
+    "code": "RU",
+    "day": 4
+   },
+   {
+    "code": "KPD",
+    "day": 4
+   },
+   {
+    "code": "SA",
+    "day": 4
+   },
+   {
+    "code": "ED",
+    "day": 4
+   },
+   {
+    "code": "TUP",
+    "day": 4
+   },
+   {
+    "code": "CBE",
+    "day": 4
+   },
+   {
+    "code": "PGT",
+    "day": 4
+   },
+   {
+    "code": "TCR",
+    "day": 4
+   },
+   {
+    "code": "AWY",
+    "day": 4
+   },
+   {
+    "code": "ERN",
+    "day": 4
+   },
+   {
+    "code": "KTYM",
+    "day": 4
+   },
+   {
+    "code": "CNGR",
+    "day": 4
+   },
+   {
+    "code": "QLN",
+    "day": 4
+   },
+   {
+    "code": "TVC",
+    "day": 4
+   },
+   {
+    "code": "NCJ",
+    "day": 4
+   },
+   {
+    "code": "CAPE",
+    "day": 4
+   }
+  ]
+ },
+ "22619": {
+  "at": 1795601651.8511078,
+  "halts": [
+   {
+    "code": "BSP",
+    "day": 1
+   },
+   {
+    "code": "BYT",
+    "day": 1
+   },
+   {
+    "code": "R",
+    "day": 1
+   },
+   {
+    "code": "DURG",
+    "day": 1
+   },
+   {
+    "code": "RJN",
+    "day": 1
+   },
+   {
+    "code": "DGG",
+    "day": 1
+   },
+   {
+    "code": "G",
+    "day": 1
+   },
+   {
+    "code": "TMR",
+    "day": 1
+   },
+   {
+    "code": "BRD",
+    "day": 1
+   },
+   {
+    "code": "NGP",
+    "day": 1
+   },
+   {
+    "code": "CD",
+    "day": 1
+   },
+   {
+    "code": "BPQ",
+    "day": 1
+   },
+   {
+    "code": "WL",
+    "day": 1
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "RU",
+    "day": 2
+   },
+   {
+    "code": "KPD",
+    "day": 2
+   },
+   {
+    "code": "JTJ",
+    "day": 2
+   },
+   {
+    "code": "SA",
+    "day": 2
+   },
+   {
+    "code": "ED",
+    "day": 2
+   },
+   {
+    "code": "TUP",
+    "day": 2
+   },
+   {
+    "code": "CBE",
+    "day": 2
+   },
+   {
+    "code": "PGT",
+    "day": 2
+   },
+   {
+    "code": "TCR",
+    "day": 2
+   },
+   {
+    "code": "AWY",
+    "day": 2
+   },
+   {
+    "code": "ERS",
+    "day": 2
+   },
+   {
+    "code": "SRTL",
+    "day": 2
+   },
+   {
+    "code": "ALLP",
+    "day": 2
+   },
+   {
+    "code": "KYJ",
+    "day": 2
+   },
+   {
+    "code": "QLN",
+    "day": 2
+   },
+   {
+    "code": "TVC",
+    "day": 2
+   },
+   {
+    "code": "NJT",
+    "day": 3
+   },
+   {
+    "code": "TEN",
+    "day": 3
+   }
+  ]
+ },
+ "22620": {
+  "at": 1795601708.4825923,
+  "halts": [
+   {
+    "code": "TEN",
+    "day": 1
+   },
+   {
+    "code": "NJT",
+    "day": 1
+   },
+   {
+    "code": "TVC",
+    "day": 1
+   },
+   {
+    "code": "QLN",
+    "day": 1
+   },
+   {
+    "code": "KYJ",
+    "day": 1
+   },
+   {
+    "code": "ALLP",
+    "day": 1
+   },
+   {
+    "code": "SRTL",
+    "day": 1
+   },
+   {
+    "code": "ERS",
+    "day": 1
+   },
+   {
+    "code": "AWY",
+    "day": 1
+   },
+   {
+    "code": "TCR",
+    "day": 1
+   },
+   {
+    "code": "PGT",
+    "day": 1
+   },
+   {
+    "code": "CBE",
+    "day": 1
+   },
+   {
+    "code": "TUP",
+    "day": 1
+   },
+   {
+    "code": "ED",
+    "day": 1
+   },
+   {
+    "code": "SA",
+    "day": 1
+   },
+   {
+    "code": "JTJ",
+    "day": 1
+   },
+   {
+    "code": "KPD",
+    "day": 1
+   },
+   {
+    "code": "RU",
+    "day": 1
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "WL",
+    "day": 2
+   },
+   {
+    "code": "BPQ",
+    "day": 2
+   },
+   {
+    "code": "CD",
+    "day": 2
+   },
+   {
+    "code": "NGP",
+    "day": 2
+   },
+   {
+    "code": "BRD",
+    "day": 2
+   },
+   {
+    "code": "TMR",
+    "day": 2
+   },
+   {
+    "code": "G",
+    "day": 2
+   },
+   {
+    "code": "DGG",
+    "day": 2
+   },
+   {
+    "code": "RJN",
+    "day": 2
+   },
+   {
+    "code": "DURG",
+    "day": 2
+   },
+   {
+    "code": "R",
+    "day": 2
+   },
+   {
+    "code": "BYT",
+    "day": 2
+   },
+   {
+    "code": "BSP",
+    "day": 2
+   }
+  ]
+ },
+ "22641": {
+  "at": 1795601708.9455907,
+  "halts": [
+   {
+    "code": "TVC",
+    "day": 1
+   },
+   {
+    "code": "QLN",
+    "day": 1
+   },
+   {
+    "code": "KYJ",
+    "day": 1
+   },
+   {
+    "code": "HAD",
+    "day": 1
+   },
+   {
+    "code": "AMPA",
+    "day": 1
+   },
+   {
+    "code": "ALLP",
+    "day": 1
+   },
+   {
+    "code": "SRTL",
+    "day": 1
+   },
+   {
+    "code": "ERS",
+    "day": 1
+   },
+   {
+    "code": "AWY",
+    "day": 1
+   },
+   {
+    "code": "TCR",
+    "day": 1
+   },
+   {
+    "code": "PGT",
+    "day": 2
+   },
+   {
+    "code": "CBE",
+    "day": 2
+   },
+   {
+    "code": "TUP",
+    "day": 2
+   },
+   {
+    "code": "ED",
+    "day": 2
+   },
+   {
+    "code": "SA",
+    "day": 2
+   },
+   {
+    "code": "JTJ",
+    "day": 2
+   },
+   {
+    "code": "KPD",
+    "day": 2
+   },
+   {
+    "code": "PER",
+    "day": 2
+   },
+   {
+    "code": "OGL",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "RJY",
+    "day": 2
+   },
+   {
+    "code": "VSKP",
+    "day": 2
+   },
+   {
+    "code": "VZM",
+    "day": 2
+   },
+   {
+    "code": "CHE",
+    "day": 2
+   },
+   {
+    "code": "PSA",
+    "day": 3
+   },
+   {
+    "code": "BAM",
+    "day": 3
+   },
+   {
+    "code": "BALU",
+    "day": 3
+   },
+   {
+    "code": "KUR",
+    "day": 3
+   },
+   {
+    "code": "BBS",
+    "day": 3
+   },
+   {
+    "code": "CTC",
+    "day": 3
+   },
+   {
+    "code": "JJKR",
+    "day": 3
+   },
+   {
+    "code": "BHC",
+    "day": 3
+   },
+   {
+    "code": "BLS",
+    "day": 3
+   },
+   {
+    "code": "KGP",
+    "day": 3
+   },
+   {
+    "code": "MCA",
+    "day": 3
+   },
+   {
+    "code": "SRC",
+    "day": 3
+   },
+   {
+    "code": "SHM",
+    "day": 3
+   }
+  ]
+ },
+ "22642": {
+  "at": 1795601652.5019271,
+  "halts": [
+   {
+    "code": "SHM",
+    "day": 1
+   },
+   {
+    "code": "SRC",
+    "day": 2
+   },
+   {
+    "code": "MCA",
+    "day": 2
+   },
+   {
+    "code": "KGP",
+    "day": 2
+   },
+   {
+    "code": "BLS",
+    "day": 2
+   },
+   {
+    "code": "BHC",
+    "day": 2
+   },
+   {
+    "code": "JJKR",
+    "day": 2
+   },
+   {
+    "code": "CTC",
+    "day": 2
+   },
+   {
+    "code": "BBS",
+    "day": 2
+   },
+   {
+    "code": "KUR",
+    "day": 2
+   },
+   {
+    "code": "BALU",
+    "day": 2
+   },
+   {
+    "code": "BAM",
+    "day": 2
+   },
+   {
+    "code": "PSA",
+    "day": 2
+   },
+   {
+    "code": "CHE",
+    "day": 2
+   },
+   {
+    "code": "VZM",
+    "day": 2
+   },
+   {
+    "code": "VSKP",
+    "day": 2
+   },
+   {
+    "code": "RJY",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "PER",
+    "day": 3
+   },
+   {
+    "code": "KPD",
+    "day": 3
+   },
+   {
+    "code": "JTJ",
+    "day": 3
+   },
+   {
+    "code": "SA",
+    "day": 3
+   },
+   {
+    "code": "ED",
+    "day": 3
+   },
+   {
+    "code": "TUP",
+    "day": 3
+   },
+   {
+    "code": "CBE",
+    "day": 3
+   },
+   {
+    "code": "PGT",
+    "day": 3
+   },
+   {
+    "code": "TCR",
+    "day": 3
+   },
+   {
+    "code": "AWY",
+    "day": 3
+   },
+   {
+    "code": "ERS",
+    "day": 3
+   },
+   {
+    "code": "SRTL",
+    "day": 3
+   },
+   {
+    "code": "ALLP",
+    "day": 3
+   },
+   {
+    "code": "AMPA",
+    "day": 3
+   },
+   {
+    "code": "HAD",
+    "day": 3
+   },
+   {
+    "code": "KYJ",
+    "day": 3
+   },
+   {
+    "code": "QLN",
+    "day": 3
+   },
+   {
+    "code": "TVP",
+    "day": 3
+   },
+   {
+    "code": "TVC",
+    "day": 3
+   }
+  ]
+ },
+ "22645": {
+  "at": 1795601653.336726,
+  "halts": [
+   {
+    "code": "INDB",
+    "day": 1
+   },
+   {
+    "code": "DWX",
+    "day": 1
+   },
+   {
+    "code": "UJN",
+    "day": 1
+   },
+   {
+    "code": "SJP",
+    "day": 1
+   },
+   {
+    "code": "BPL",
+    "day": 1
+   },
+   {
+    "code": "ET",
+    "day": 1
+   },
+   {
+    "code": "GDYA",
+    "day": 2
+   },
+   {
+    "code": "BZU",
+    "day": 2
+   },
+   {
+    "code": "AMLA",
+    "day": 2
+   },
+   {
+    "code": "PAR",
+    "day": 2
+   },
+   {
+    "code": "NGP",
+    "day": 2
+   },
+   {
+    "code": "SEGM",
+    "day": 2
+   },
+   {
+    "code": "CD",
+    "day": 2
+   },
+   {
+    "code": "BPQ",
+    "day": 2
+   },
+   {
+    "code": "SKZR",
+    "day": 2
+   },
+   {
+    "code": "BPA",
+    "day": 2
+   },
+   {
+    "code": "MCI",
+    "day": 2
+   },
+   {
+    "code": "RDM",
+    "day": 2
+   },
+   {
+    "code": "WL",
+    "day": 2
+   },
+   {
+    "code": "KMT",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "TEL",
+    "day": 2
+   },
+   {
+    "code": "CLX",
+    "day": 2
+   },
+   {
+    "code": "OGL",
+    "day": 2
+   },
+   {
+    "code": "NLR",
+    "day": 2
+   },
+   {
+    "code": "GDR",
+    "day": 2
+   },
+   {
+    "code": "MAS",
+    "day": 2
+   },
+   {
+    "code": "KPD",
+    "day": 3
+   },
+   {
+    "code": "JTJ",
+    "day": 3
+   },
+   {
+    "code": "SA",
+    "day": 3
+   },
+   {
+    "code": "ED",
+    "day": 3
+   },
+   {
+    "code": "TUP",
+    "day": 3
+   },
+   {
+    "code": "CBE",
+    "day": 3
+   },
+   {
+    "code": "PGT",
+    "day": 3
+   },
+   {
+    "code": "OTP",
+    "day": 3
+   },
+   {
+    "code": "WKI",
+    "day": 3
+   },
+   {
+    "code": "TCR",
+    "day": 3
+   },
+   {
+    "code": "IJK",
+    "day": 3
+   },
+   {
+    "code": "CKI",
+    "day": 3
+   },
+   {
+    "code": "AFK",
+    "day": 3
+   },
+   {
+    "code": "AWY",
+    "day": 3
+   },
+   {
+    "code": "ERN",
+    "day": 3
+   },
+   {
+    "code": "ERS",
+    "day": 3
+   },
+   {
+    "code": "SRTL",
+    "day": 3
+   },
+   {
+    "code": "ALLP",
+    "day": 3
+   },
+   {
+    "code": "AMPA",
+    "day": 3
+   },
+   {
+    "code": "HAD",
+    "day": 3
+   },
+   {
+    "code": "KYJ",
+    "day": 3
+   },
+   {
+    "code": "QLN",
+    "day": 3
+   },
+   {
+    "code": "TVCN",
+    "day": 3
+   }
+  ]
+ },
+ "22646": {
+  "at": 1795601709.4128065,
+  "halts": [
+   {
+    "code": "TVCN",
+    "day": 1
+   },
+   {
+    "code": "QLN",
+    "day": 1
+   },
+   {
+    "code": "KYJ",
+    "day": 1
+   },
+   {
+    "code": "HAD",
+    "day": 1
+   },
+   {
+    "code": "AMPA",
+    "day": 1
+   },
+   {
+    "code": "ALLP",
+    "day": 1
+   },
+   {
+    "code": "SRTL",
+    "day": 1
+   },
+   {
+    "code": "ERS",
+    "day": 1
+   },
+   {
+    "code": "AWY",
+    "day": 1
+   },
+   {
+    "code": "AFK",
+    "day": 1
+   },
+   {
+    "code": "CKI",
+    "day": 1
+   },
+   {
+    "code": "IJK",
+    "day": 1
+   },
+   {
+    "code": "TCR",
+    "day": 1
+   },
+   {
+    "code": "WKI",
+    "day": 1
+   },
+   {
+    "code": "OTP",
+    "day": 1
+   },
+   {
+    "code": "PGT",
+    "day": 1
+   },
+   {
+    "code": "CBE",
+    "day": 1
+   },
+   {
+    "code": "TUP",
+    "day": 1
+   },
+   {
+    "code": "ED",
+    "day": 1
+   },
+   {
+    "code": "SA",
+    "day": 1
+   },
+   {
+    "code": "JTJ",
+    "day": 1
+   },
+   {
+    "code": "KPD",
+    "day": 1
+   },
+   {
+    "code": "MAS",
+    "day": 1
+   },
+   {
+    "code": "GDR",
+    "day": 2
+   },
+   {
+    "code": "NLR",
+    "day": 2
+   },
+   {
+    "code": "OGL",
+    "day": 2
+   },
+   {
+    "code": "CLX",
+    "day": 2
+   },
+   {
+    "code": "TEL",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "KMT",
+    "day": 2
+   },
+   {
+    "code": "WL",
+    "day": 2
+   },
+   {
+    "code": "RDM",
+    "day": 2
+   },
+   {
+    "code": "MCI",
+    "day": 2
+   },
+   {
+    "code": "BPA",
+    "day": 2
+   },
+   {
+    "code": "SKZR",
+    "day": 2
+   },
+   {
+    "code": "BPQ",
+    "day": 2
+   },
+   {
+    "code": "CD",
+    "day": 2
+   },
+   {
+    "code": "SEGM",
+    "day": 2
+   },
+   {
+    "code": "NGP",
+    "day": 2
+   },
+   {
+    "code": "PAR",
+    "day": 2
+   },
+   {
+    "code": "AMLA",
+    "day": 2
+   },
+   {
+    "code": "BZU",
+    "day": 2
+   },
+   {
+    "code": "GDYA",
+    "day": 2
+   },
+   {
+    "code": "ET",
+    "day": 2
+   },
+   {
+    "code": "BPL",
+    "day": 2
+   },
+   {
+    "code": "SJP",
+    "day": 3
+   },
+   {
+    "code": "UJN",
+    "day": 3
+   },
+   {
+    "code": "DWX",
+    "day": 3
+   },
+   {
+    "code": "INDB",
+    "day": 3
+   }
+  ]
+ },
+ "22647": {
+  "at": 1795601653.7896705,
+  "halts": [
+   {
+    "code": "KRBA",
+    "day": 1
+   },
+   {
+    "code": "CPH",
+    "day": 1
+   },
+   {
+    "code": "NIA",
+    "day": 1
+   },
+   {
+    "code": "AKT",
+    "day": 1
+   },
+   {
+    "code": "BSP",
+    "day": 1
+   },
+   {
+    "code": "BYT",
+    "day": 1
+   },
+   {
+    "code": "R",
+    "day": 1
+   },
+   {
+    "code": "DURG",
+    "day": 2
+   },
+   {
+    "code": "RJN",
+    "day": 2
+   },
+   {
+    "code": "DGG",
+    "day": 2
+   },
+   {
+    "code": "G",
+    "day": 2
+   },
+   {
+    "code": "TMR",
+    "day": 2
+   },
+   {
+    "code": "BRD",
+    "day": 2
+   },
+   {
+    "code": "NGP",
+    "day": 2
+   },
+   {
+    "code": "SEGM",
+    "day": 2
+   },
+   {
+    "code": "CD",
+    "day": 2
+   },
+   {
+    "code": "BPQ",
+    "day": 2
+   },
+   {
+    "code": "SKZR",
+    "day": 2
+   },
+   {
+    "code": "BPA",
+    "day": 2
+   },
+   {
+    "code": "MCI",
+    "day": 2
+   },
+   {
+    "code": "RDM",
+    "day": 2
+   },
+   {
+    "code": "WL",
+    "day": 2
+   },
+   {
+    "code": "KMT",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "TEL",
+    "day": 2
+   },
+   {
+    "code": "CLX",
+    "day": 2
+   },
+   {
+    "code": "OGL",
+    "day": 2
+   },
+   {
+    "code": "NLR",
+    "day": 2
+   },
+   {
+    "code": "GDR",
+    "day": 2
+   },
+   {
+    "code": "MAS",
+    "day": 2
+   },
+   {
+    "code": "KPD",
+    "day": 3
+   },
+   {
+    "code": "JTJ",
+    "day": 3
+   },
+   {
+    "code": "SA",
+    "day": 3
+   },
+   {
+    "code": "ED",
+    "day": 3
+   },
+   {
+    "code": "TUP",
+    "day": 3
+   },
+   {
+    "code": "CBE",
+    "day": 3
+   },
+   {
+    "code": "PGT",
+    "day": 3
+   },
+   {
+    "code": "OTP",
+    "day": 3
+   },
+   {
+    "code": "WKI",
+    "day": 3
+   },
+   {
+    "code": "TCR",
+    "day": 3
+   },
+   {
+    "code": "IJK",
+    "day": 3
+   },
+   {
+    "code": "CKI",
+    "day": 3
+   },
+   {
+    "code": "AFK",
+    "day": 3
+   },
+   {
+    "code": "AWY",
+    "day": 3
+   },
+   {
+    "code": "ERN",
+    "day": 3
+   },
+   {
+    "code": "TRTR",
+    "day": 3
+   },
+   {
+    "code": "KTYM",
+    "day": 3
+   },
+   {
+    "code": "TRVL",
+    "day": 3
+   },
+   {
+    "code": "CNGR",
+    "day": 3
+   },
+   {
+    "code": "MVLK",
+    "day": 3
+   },
+   {
+    "code": "KYJ",
+    "day": 3
+   },
+   {
+    "code": "QLN",
+    "day": 3
+   },
+   {
+    "code": "TVCN",
+    "day": 3
+   }
+  ]
+ },
+ "22648": {
+  "at": 1795601684.3089755,
+  "halts": [
+   {
+    "code": "TVCN",
+    "day": 1
+   },
+   {
+    "code": "QLN",
+    "day": 1
+   },
+   {
+    "code": "KYJ",
+    "day": 1
+   },
+   {
+    "code": "MVLK",
+    "day": 1
+   },
+   {
+    "code": "CNGR",
+    "day": 1
+   },
+   {
+    "code": "TRVL",
+    "day": 1
+   },
+   {
+    "code": "KTYM",
+    "day": 1
+   },
+   {
+    "code": "TRTR",
+    "day": 1
+   },
+   {
+    "code": "ERN",
+    "day": 1
+   },
+   {
+    "code": "AWY",
+    "day": 1
+   },
+   {
+    "code": "AFK",
+    "day": 1
+   },
+   {
+    "code": "CKI",
+    "day": 1
+   },
+   {
+    "code": "IJK",
+    "day": 1
+   },
+   {
+    "code": "TCR",
+    "day": 1
+   },
+   {
+    "code": "WKI",
+    "day": 1
+   },
+   {
+    "code": "OTP",
+    "day": 1
+   },
+   {
+    "code": "PGT",
+    "day": 1
+   },
+   {
+    "code": "CBE",
+    "day": 1
+   },
+   {
+    "code": "TUP",
+    "day": 1
+   },
+   {
+    "code": "ED",
+    "day": 1
+   },
+   {
+    "code": "SA",
+    "day": 1
+   },
+   {
+    "code": "JTJ",
+    "day": 1
+   },
+   {
+    "code": "KPD",
+    "day": 1
+   },
+   {
+    "code": "MAS",
+    "day": 1
+   },
+   {
+    "code": "GDR",
+    "day": 2
+   },
+   {
+    "code": "NLR",
+    "day": 2
+   },
+   {
+    "code": "OGL",
+    "day": 2
+   },
+   {
+    "code": "CLX",
+    "day": 2
+   },
+   {
+    "code": "TEL",
+    "day": 2
+   },
+   {
+    "code": "BZA",
+    "day": 2
+   },
+   {
+    "code": "KMT",
+    "day": 2
+   },
+   {
+    "code": "WL",
+    "day": 2
+   },
+   {
+    "code": "RDM",
+    "day": 2
+   },
+   {
+    "code": "MCI",
+    "day": 2
+   },
+   {
+    "code": "BPA",
+    "day": 2
+   },
+   {
+    "code": "SKZR",
+    "day": 2
+   },
+   {
+    "code": "BPQ",
+    "day": 2
+   },
+   {
+    "code": "CD",
+    "day": 2
+   },
+   {
+    "code": "SEGM",
+    "day": 2
+   },
+   {
+    "code": "NGP",
+    "day": 2
+   },
+   {
+    "code": "BRD",
+    "day": 2
+   },
+   {
+    "code": "TMR",
+    "day": 2
+   },
+   {
+    "code": "G",
+    "day": 2
+   },
+   {
+    "code": "DGG",
+    "day": 2
+   },
+   {
+    "code": "RJN",
+    "day": 2
+   },
+   {
+    "code": "DURG",
+    "day": 2
+   },
+   {
+    "code": "R",
+    "day": 2
+   },
+   {
+    "code": "BYT",
+    "day": 2
+   },
+   {
+    "code": "BSP",
+    "day": 3
+   },
+   {
+    "code": "AKT",
+    "day": 3
+   },
+   {
+    "code": "NIA",
+    "day": 3
+   },
+   {
+    "code": "CPH",
+    "day": 3
+   },
+   {
+    "code": "KRBA",
+    "day": 3
+   }
+  ]
+ }
+}

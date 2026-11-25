@@ -1,0 +1,11 @@
+[
+ {
+  "at": 1795601641.0957775,
+  "body": "===== ONWARD =====\nNew special trains:\n  07113 CHZ QLN SPL\n  07180 CHZ QLN SPL\n  07193 HYB QLN SPL\n  07195 CHZ QLN SPL\n  07197 CHZ QLN SPL\n  07233 CCT QLN SPL\n  08539 CHE QLN SPL\n\n===== RETURN =====\nSat 19 Dec | 07234 QLN CCT SPECIAL | CNGR->BZA dep 03:27\n   3A: 52 seats (FULL GROUP) Rs2065, data 3h old\nSat 19 Dec | 07234 QLN CCT SPECIAL | QLN->BZA dep 02:30\n   3A: 41 seats (FULL GROUP) Rs2100, data 1h old\nSat 19 Dec | 07234 QLN CCT SPECIAL | KTYM->BZA dep 04:05\n   3A: 39 seats (FULL GROUP) Rs2030, data 1h old\nSat 19 Dec | 07234 QLN CCT SPECIAL | KTYM->BZA dep 04:05\n   2A: 94 seats (FULL GROUP) Rs2795, data 23h old\nSat 19 Dec | 07234 QLN CCT SPECIAL | CNGR->BZA dep 03:27\n   2A: 94 seats (FULL GROUP) Rs2850, data 5h old\nSat 19 Dec | 07234 QLN CCT SPECIAL | QLN->BZA dep 02:30\n   2A: 94 seats (FULL GROUP) Rs2900, data 38h old\nTue 22 Dec | 08540 QLN CHE SPECIAL | KTYM->BZA dep 04:05\n   3A: 64 seats (FULL GROUP) Rs1820, data 7h old\nTue 22 Dec | 08540 QLN CHE SPECIAL | QLN->BZA dep 02:30\n   3A: 64 seats (FULL GROUP) Rs1880, data 4h old\n(+14 more on the status page)\nNew special trains:\n  07181 QLN CHZ SPECIAL\n  07194 QLN HYB SPECIAL\n  07198 QLN CHZ SPECIAL\n  07234 QLN CCT SPECIAL\n  08540 QLN CHE SPECIAL",
+  "route": "BZA \u2192 KTYM, CNGR, QLN",
+  "sent": true,
+  "title": "Seats for all 17",
+  "urgent": true,
+  "watch": "sabarimala"
+ }
+]
