@@ -1,0 +1,18 @@
+# Manual check that phone alerts work with the NTFY_TOPIC secret.
+name: Test alert
+on:
+  workflow_dispatch:
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Send a test alert
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          test -n "$NTFY_TOPIC" || { echo "The NTFY_TOPIC secret is empty"; exit 1; }
+          curl -fsS -H "Title: Train watch test (from GitHub)" -H "Tags: train" \
+            -d "Phone alerts from GitHub are working." "https://ntfy.sh/$NTFY_TOPIC" > /dev/null
+          echo "Sent"
