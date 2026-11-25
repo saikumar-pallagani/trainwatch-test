@@ -1,0 +1,60 @@
+# One-off test: does the train data source answer from GitHub's servers?
+# Paste this into a new repository as .github/workflows/datasource-test.yml,
+# then run it from the Actions tab ("Run workflow") and read the log.
+name: Data source test
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Call the train search 20 times and the route lookup once
+        run: |
+          python3 - <<'EOF'
+          import json, time, urllib.request
+          UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+                "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
+          API = "https://cttrainsapi.confirmtkt.com/api/v1/trains"
+          Q = ("&addAvailabilityCache=true&excludeMultiTicketAlternates=false&excludeBoostAlternates=false"
+               "&sortBy=DEFAULT&enableNearby=true&enableTG=true&tGPlan=CTG-15&showTGPrediction=false"
+               "&tgColor=DEFAULT&showPredictionGlobal=true")
+
+          def get(url):
+              req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
+              try:
+                  with urllib.request.urlopen(req, timeout=30) as r:
+                      return r.status, r.read()
+              except Exception as e:
+                  return getattr(e, "code", 0), str(e).encode()
+
+          ok = 0
+          pairs = [("BZA", "KTYM"), ("BZA", "QLN"), ("KTYM", "BZA"), ("SC", "KTYM")]
+          for i in range(20):
+              src, dst = pairs[i % 4]
+              day = 15 + i % 6
+              code, body = get(f"{API}/search?sourceStationCode={src}&destinationStationCode={dst}"
+                               f"&dateOfJourney={day}-12-2026{Q}")
+              trains = -1
+              try:
+                  trains = len((json.loads(body).get("data") or {}).get("trainList") or [])
+              except Exception:
+                  pass
+              ok += code == 200 and trains > 0
+              print(f"search {i + 1:2d}: {src}->{dst} {day} Dec  HTTP {code}  trains {trains}  {body[:80]!r}")
+              time.sleep(0.3)
+
+          code, body = get(f"{API}/schedule?trainNo=12626")
+          stops = -1
+          try:
+              stops = len(json.loads(body).get("Schedule") or [])
+          except Exception:
+              pass
+          print(f"route lookup: HTTP {code}  stops {stops}")
+
+          print()
+          print(f"RESULT: {ok}/20 searches returned trains; route lookup {'worked' if stops > 0 else 'FAILED'}")
+          print("VERDICT:", "GitHub Actions can reach the data source" if ok >= 18 and stops > 0
+                else "GitHub Actions is blocked or unreliable for this data source")
+          EOF
