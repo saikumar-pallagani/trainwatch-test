@@ -1,18 +1,36 @@
 {
-  "ntfy_topic": "sabari-trains-703dda3c88",
   "watches": [
     {
       "id": "sabarimala",
       "enabled": true,
       "from": "BZA",
-      "to": ["KTYM", "CNGR", "QLN"],
+      "to": [
+        "KTYM",
+        "CNGR",
+        "QLN"
+      ],
       "start": "2026-12-15",
       "end": "2026-12-20",
-      "return": { "start": "2026-12-17", "end": "2026-12-22" },
+      "return": {
+        "start": "2026-12-17",
+        "end": "2026-12-22"
+      },
       "passengers": 17,
-      "classes": ["SL", "3E", "3A", "2A", "1A"],
+      "classes": [
+        "SL",
+        "3E",
+        "3A",
+        "2A",
+        "1A"
+      ],
       "interval_minutes": 60,
-      "special_watch_origins": ["SC", "GNT", "TEL", "KCG", "CCT"]
+      "special_watch_origins": [
+        "SC",
+        "GNT",
+        "TEL",
+        "KCG",
+        "CCT"
+      ]
     }
   ]
 }
