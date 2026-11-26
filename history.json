@@ -34,5 +34,14 @@
   "title": "Seats for all 17",
   "urgent": true,
   "watch": "sabarimala"
+ },
+ {
+  "at": 1795659704.3239195,
+  "body": "===== RETURN =====\nSat 19 Dec | 07234 QLN CCT SPECIAL | QLN->BZA dep 02:30\n   1A: 16 seats (partial) Rs4590, data 38m old",
+  "route": "BZA \u2192 KTYM, CNGR, QLN",
+  "sent": true,
+  "title": "1 new seat option(s)",
+  "urgent": false,
+  "watch": "sabarimala"
  }
 ]
