@@ -43,5 +43,14 @@
   "title": "1 new seat option(s)",
   "urgent": false,
   "watch": "sabarimala"
+ },
+ {
+  "at": 1795667392.874078,
+  "body": "===== RETURN =====\nTue 22 Dec | 08540 QLN CHE SPECIAL | CNGR->BZA dep 03:27\n   2A: 54 seats (FULL GROUP) Rs2520, data 44m old",
+  "route": "BZA \u2192 KTYM, CNGR, QLN",
+  "sent": true,
+  "title": "Seats for all 17",
+  "urgent": true,
+  "watch": "sabarimala"
  }
 ]
