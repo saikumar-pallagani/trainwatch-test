@@ -1,10 +1,10 @@
 # Train watch
 
-Updated 26 Nov 2026, 13:28 IST. Availability is ConfirmTkt's cached copy; confirm on IRCTC before booking.
+Updated 26 Nov 2026, 14:31 IST. Availability is ConfirmTkt's cached copy; confirm on IRCTC before booking.
 
 | Watch | Status | Open options | Last check | Checks every |
 |---|---|---|---|---|
-| **BZA → KTYM, CNGR, QLN** | 🟢 Running | 59 | 26 Nov 13:26 | 60 min |
+| **BZA → KTYM, CNGR, QLN** | 🟢 Running | 59 | 26 Nov 14:30 | 60 min |
 
 ## Notifications sent
 
@@ -183,9 +183,9 @@ Tue 15 Dec to Sun 20 Dec, return Thu 17 Dec to Tue 22 Dec · 17 passengers · SL
 | Train | Status | Boards at |
 |---|---|---|
 | 07113 CHZ QLN SPL | SL GNWL103/WL83, 3A GNWL39/WL31, 2A GNWL22/WL9 | CHZ Tue 15 Dec 14:00, KCG Tue 15 Dec 14:55 |
-| 07197 CHZ QLN SPL | SL GNWL200/WL124, 3A GNWL99/WL60, 2A GNWL15/WL13 | CHZ Wed 16 Dec 23:45, GNT Thu 17 Dec 05:40, TEL Thu 17 Dec 06:47 |
+| 07197 CHZ QLN SPL | SL GNWL200/WL124, 3A GNWL99/WL60, 2A GNWL16/WL14 | CHZ Wed 16 Dec 23:45, GNT Thu 17 Dec 05:40, TEL Thu 17 Dec 06:47 |
 | 07233 CCT QLN SPL | SL REGRET, 3A GNWL107/WL72, 2A GNWL34/WL17, 1A GNWL4/WL4 | BZA Thu 17 Dec 12:40, CCT Thu 17 Dec 08:20, EE Thu 17 Dec 11:22, GNT Thu 17 Dec 13:55, RJY Thu 17 Dec 09:32, SLO Thu 17 Dec 08:40, TDD Thu 17 Dec 10:22 |
-| 07180 CHZ QLN SPL | SL GNWL175/WL139, 3A GNWL74/WL60, 2A GNWL25/WL23 | CHZ Fri 18 Dec 23:45, GNT Sat 19 Dec 05:40, TEL Sat 19 Dec 06:47 |
+| 07180 CHZ QLN SPL | SL GNWL175/WL139, 3A GNWL84/WL70, 2A GNWL25/WL23 | CHZ Fri 18 Dec 23:45, GNT Sat 19 Dec 05:40, TEL Sat 19 Dec 06:47 |
 | 07193 HYB QLN SPL | SL REGRET, 3A GNWL102/WL64, 2A GNWL26/WL22 | HYB Sat 19 Dec 23:10, SC Sat 19 Dec 23:35, GNT Sun 20 Dec 05:40, TEL Sun 20 Dec 06:47 |
 | 08539 CHE QLN SPL | SL GNWL163/WL140, 3A GNWL124/WL82, 2A GNWL32/WL22 | BZA Sun 20 Dec 18:20, CHE Sun 20 Dec 09:20, EE Sun 20 Dec 16:57, RJY Sun 20 Dec 15:27, SLO Sun 20 Dec 14:42, TEL Sun 20 Dec 18:52 |
 | 07195 CHZ QLN SPL | 3A GNWL150/WL87, 2A GNWL41/WL35, 1A GNWL9/WL8 | CHZ Sun 20 Dec 23:45 |
@@ -196,45 +196,45 @@ Tue 15 Dec to Sun 20 Dec, return Thu 17 Dec to Tue 22 Dec · 17 passengers · SL
 
 | Date | Train | Segment | Dep | Class | Seats | Fare | Data age | How |
 |---|---|---|---|---|---|---|---|---|
-| Sat 19 Dec | 07234 QLN CCT SPECIAL | KTYM→BZA | 04:05 | 3A | **30** (all 17) | ₹2030 | 2h | direct |
-| Sat 19 Dec | 07234 QLN CCT SPECIAL | CNGR→BZA | 03:27 | 3A | **30** (all 17) | ₹2065 | 1h | direct |
-| Sat 19 Dec | 07234 QLN CCT SPECIAL | QLN→BZA | 02:30 | 3A | **30** (all 17) | ₹2100 | 2h | direct |
-| Sat 19 Dec | 07234 QLN CCT SPECIAL | KTYM→BZA | 04:05 | 2A | **94** (all 17) | ₹2795 | 8h | direct |
-| Sat 19 Dec | 07234 QLN CCT SPECIAL | CNGR→BZA | 03:27 | 2A | **94** (all 17) | ₹2850 | 26h | direct |
-| Sat 19 Dec | 07234 QLN CCT SPECIAL | QLN→BZA | 02:30 | 2A | **94** (all 17) | ₹2900 | 6h | direct |
-| Tue 22 Dec | 08540 QLN CHE SPECIAL | KTYM→BZA | 04:05 | 3A | **54** (all 17) | ₹1820 | 2h | direct |
-| Tue 22 Dec | 08540 QLN CHE SPECIAL | QLN→BZA | 02:30 | 3A | **54** (all 17) | ₹1880 | 2h | direct |
-| Tue 22 Dec | 08540 QLN CHE SPECIAL | CNGR→BZA | 03:27 | 3A | **52** (all 17) | ₹1840 | 15m | direct |
-| Tue 22 Dec | 08540 QLN CHE SPECIAL | KTYM→BZA | 04:05 | 2A | **65** (all 17) | ₹2490 | 46h | direct |
-| Tue 22 Dec | 08540 QLN CHE SPECIAL | QLN→BZA | 02:30 | 2A | **63** (all 17) | ₹2575 | 19h | direct |
-| Tue 22 Dec | 08540 QLN CHE SPECIAL | CNGR→BZA | 03:27 | 2A | **52** (all 17) | ₹2520 | 2h | direct |
+| Sat 19 Dec | 07234 QLN CCT SPECIAL | KTYM→BZA | 04:05 | 3A | **30** (all 17) | ₹2030 | 3h | direct |
+| Sat 19 Dec | 07234 QLN CCT SPECIAL | QLN→BZA | 02:30 | 3A | **30** (all 17) | ₹2100 | 3h | direct |
+| Sat 19 Dec | 07234 QLN CCT SPECIAL | CNGR→BZA | 03:27 | 3A | **28** (all 17) | ₹2065 | 13m | direct |
+| Sat 19 Dec | 07234 QLN CCT SPECIAL | KTYM→BZA | 04:05 | 2A | **94** (all 17) | ₹2795 | 9h | direct |
+| Sat 19 Dec | 07234 QLN CCT SPECIAL | CNGR→BZA | 03:27 | 2A | **94** (all 17) | ₹2850 | 27h | direct |
+| Sat 19 Dec | 07234 QLN CCT SPECIAL | QLN→BZA | 02:30 | 2A | **94** (all 17) | ₹2900 | 7h | direct |
+| Tue 22 Dec | 08540 QLN CHE SPECIAL | KTYM→BZA | 04:05 | 3A | **54** (all 17) | ₹1820 | 3h | direct |
+| Tue 22 Dec | 08540 QLN CHE SPECIAL | QLN→BZA | 02:30 | 3A | **54** (all 17) | ₹1880 | 3h | direct |
+| Tue 22 Dec | 08540 QLN CHE SPECIAL | CNGR→BZA | 03:27 | 3A | **52** (all 17) | ₹1840 | 1h | direct |
+| Tue 22 Dec | 08540 QLN CHE SPECIAL | KTYM→BZA | 04:05 | 2A | **65** (all 17) | ₹2490 | 2d | direct |
+| Tue 22 Dec | 08540 QLN CHE SPECIAL | QLN→BZA | 02:30 | 2A | **63** (all 17) | ₹2575 | 20h | direct |
+| Tue 22 Dec | 08540 QLN CHE SPECIAL | CNGR→BZA | 03:27 | 2A | **52** (all 17) | ₹2520 | 3h | direct |
 | Sat 19 Dec | 07234 QLN CCT SPECIAL | CNGR→CCT | 03:27 | 3A | **122** (all 17) | ₹2215 | 3d | book CNGR->CCT on Sat 19 Dec, get down at BZA |
 | Sat 19 Dec | 07234 QLN CCT SPECIAL | QLN→EE | 02:30 | 3A | **107** (all 17) | ₹2140 | 3d | book QLN->EE on Sat 19 Dec, get down at BZA |
 | Sat 19 Dec | 07234 QLN CCT SPECIAL | TRVL→BZA | 03:37 | 3A | **102** (all 17) | ₹2045 | 2d | book TRVL->BZA on Sat 19 Dec, change boarding point to KTYM |
 | Sat 19 Dec | 07234 QLN CCT SPECIAL | KTYM→EE | 04:05 | 3A | **82** (all 17) | ₹2085 | 2d | book KTYM->EE on Sat 19 Dec, get down at BZA |
-| Sat 19 Dec | 07234 QLN CCT SPECIAL | CNGR→TDD | 03:27 | 3A | **81** (all 17) | ₹2140 | 40h | book CNGR->TDD on Sat 19 Dec, get down at BZA |
-| Sat 19 Dec | 07234 QLN CCT SPECIAL | KYJ→BZA | 03:04 | 3A | **41** (all 17) | ₹2065 | 18h | book KYJ->BZA on Sat 19 Dec, change boarding point to CNGR |
-| Sat 19 Dec | 07234 QLN CCT SPECIAL | CNGR→EE | 03:27 | 3A | **34** (all 17) | ₹2100 | 19h | book CNGR->EE on Sat 19 Dec, get down at BZA |
-| Sat 19 Dec | 07234 QLN CCT SPECIAL | CGY→BZA | 03:46 | 3A | **29** (all 17) | ₹2045 | 14h | book CGY->BZA on Sat 19 Dec, change boarding point to KTYM |
-| Sat 19 Dec | 07234 QLN CCT SPECIAL | QLN→CCT | 02:30 | 3A | **29** (all 17) | ₹2270 | 15h | book QLN->CCT on Sat 19 Dec, change boarding point to KTYM, get down at BZA |
-| Sat 19 Dec | 07234 QLN CCT SPECIAL | CGY→BZA | 03:46 | 2A | **94** (all 17) | ₹2820 | 14h | book CGY->BZA on Sat 19 Dec, change boarding point to KTYM |
-| Sat 19 Dec | 07234 QLN CCT SPECIAL | KTYM→EE | 04:05 | 2A | **94** (all 17) | ₹2875 | 32h | book KTYM->EE on Sat 19 Dec, get down at BZA |
-| Sat 19 Dec | 07234 QLN CCT SPECIAL | QLN→CCT | 02:30 | 2A | **94** (all 17) | ₹3145 | 40h | book QLN->CCT on Sat 19 Dec, change boarding point to KTYM, get down at BZA |
-| Sat 19 Dec | 07234 QLN CCT SPECIAL | TRVL→BZA | 03:37 | 2A | **94** (all 17) | ₹2820 | 24h | book TRVL->BZA on Sat 19 Dec, change boarding point to KTYM |
+| Sat 19 Dec | 07234 QLN CCT SPECIAL | CNGR→TDD | 03:27 | 3A | **81** (all 17) | ₹2140 | 41h | book CNGR->TDD on Sat 19 Dec, get down at BZA |
+| Sat 19 Dec | 07234 QLN CCT SPECIAL | CNGR→EE | 03:27 | 3A | **34** (all 17) | ₹2100 | 20h | book CNGR->EE on Sat 19 Dec, get down at BZA |
+| Sat 19 Dec | 07234 QLN CCT SPECIAL | CGY→BZA | 03:46 | 3A | **29** (all 17) | ₹2045 | 15h | book CGY->BZA on Sat 19 Dec, change boarding point to KTYM |
+| Sat 19 Dec | 07234 QLN CCT SPECIAL | QLN→CCT | 02:30 | 3A | **29** (all 17) | ₹2270 | 16h | book QLN->CCT on Sat 19 Dec, change boarding point to KTYM, get down at BZA |
+| Sat 19 Dec | 07234 QLN CCT SPECIAL | KYJ→BZA | 03:04 | 3A | **28** (all 17) | ₹2065 | 15m | book KYJ->BZA on Sat 19 Dec, change boarding point to CNGR |
+| Sat 19 Dec | 07234 QLN CCT SPECIAL | CGY→BZA | 03:46 | 2A | **94** (all 17) | ₹2820 | 15h | book CGY->BZA on Sat 19 Dec, change boarding point to KTYM |
+| Sat 19 Dec | 07234 QLN CCT SPECIAL | KTYM→EE | 04:05 | 2A | **94** (all 17) | ₹2875 | 33h | book KTYM->EE on Sat 19 Dec, get down at BZA |
+| Sat 19 Dec | 07234 QLN CCT SPECIAL | QLN→CCT | 02:30 | 2A | **94** (all 17) | ₹3145 | 41h | book QLN->CCT on Sat 19 Dec, change boarding point to KTYM, get down at BZA |
+| Sat 19 Dec | 07234 QLN CCT SPECIAL | TRVL→BZA | 03:37 | 2A | **94** (all 17) | ₹2820 | 25h | book TRVL->BZA on Sat 19 Dec, change boarding point to KTYM |
 | Sat 19 Dec | 07234 QLN CCT SPECIAL | CNGR→CCT | 03:27 | 2A | **94** (all 17) | ₹3065 | 2d | book CNGR->CCT on Sat 19 Dec, get down at BZA |
-| Sat 19 Dec | 07234 QLN CCT SPECIAL | KYJ→BZA | 03:04 | 2A | **94** (all 17) | ₹2850 | 24h | book KYJ->BZA on Sat 19 Dec, change boarding point to CNGR |
-| Sat 19 Dec | 07234 QLN CCT SPECIAL | QLN→EE | 02:30 | 2A | **94** (all 17) | ₹2960 | 19h | book QLN->EE on Sat 19 Dec, get down at BZA |
+| Sat 19 Dec | 07234 QLN CCT SPECIAL | KYJ→BZA | 03:04 | 2A | **94** (all 17) | ₹2850 | 25h | book KYJ->BZA on Sat 19 Dec, change boarding point to CNGR |
+| Sat 19 Dec | 07234 QLN CCT SPECIAL | QLN→EE | 02:30 | 2A | **94** (all 17) | ₹2960 | 20h | book QLN->EE on Sat 19 Dec, get down at BZA |
 | Tue 22 Dec | 08540 QLN CHE SPECIAL | KTYM→CHE | 04:05 | 3A | **156** (all 17) | ₹2180 | 3d | book KTYM->CHE on Tue 22 Dec, get down at BZA |
 | Tue 22 Dec | 08540 QLN CHE SPECIAL | CNGR→EE | 03:27 | 3A | **156** (all 17) | ₹1880 | 3d | book CNGR->EE on Tue 22 Dec, get down at BZA |
 | Tue 22 Dec | 08540 QLN CHE SPECIAL | CGY→BZA | 03:46 | 3A | **154** (all 17) | ₹1820 | 3d | book CGY->BZA on Tue 22 Dec, change boarding point to KTYM |
 | Tue 22 Dec | 08540 QLN CHE SPECIAL | KTYM→EE | 04:05 | 3A | **154** (all 17) | ₹1860 | 3d | book KTYM->EE on Tue 22 Dec, get down at BZA |
 | Tue 22 Dec | 08540 QLN CHE SPECIAL | CNGR→CHE | 03:27 | 3A | **91** (all 17) | ₹2195 | 2d | book CNGR->CHE on Tue 22 Dec, get down at BZA |
-| Tue 22 Dec | 08540 QLN CHE SPECIAL | QLN→CHE | 02:30 | 3A | **54** (all 17) | ₹2255 | 4h | book QLN->CHE on Tue 22 Dec, change boarding point to KTYM, get down at BZA |
-| Tue 22 Dec | 08540 QLN CHE SPECIAL | QLN→EE | 02:30 | 3A | **54** (all 17) | ₹1935 | 2h | book QLN->EE on Tue 22 Dec, get down at BZA |
-| Tue 22 Dec | 08540 QLN CHE SPECIAL | KTYM→RJY | 04:05 | 3A | **52** (all 17) | ₹1935 | 5h | book KTYM->RJY on Tue 22 Dec, get down at BZA |
-| Tue 22 Dec | 08540 QLN CHE SPECIAL | CNGR→RJY | 03:27 | 3A | **52** (all 17) | ₹1955 | 7h | book CNGR->RJY on Tue 22 Dec, get down at BZA |
-| Tue 22 Dec | 08540 QLN CHE SPECIAL | QLN→RJY | 02:30 | 3A | **52** (all 17) | ₹1990 | 12h | book QLN->RJY on Tue 22 Dec, get down at BZA |
-| Tue 22 Dec | 08540 QLN CHE SPECIAL | KYJ→BZA | 03:04 | 3A | **51** (all 17) | ₹1860 | 57m | book KYJ->BZA on Tue 22 Dec, change boarding point to CNGR |
+| Tue 22 Dec | 08540 QLN CHE SPECIAL | QLN→CHE | 02:30 | 3A | **54** (all 17) | ₹2255 | 5h | book QLN->CHE on Tue 22 Dec, change boarding point to KTYM, get down at BZA |
+| Tue 22 Dec | 08540 QLN CHE SPECIAL | QLN→EE | 02:30 | 3A | **54** (all 17) | ₹1935 | 3h | book QLN->EE on Tue 22 Dec, get down at BZA |
+| Tue 22 Dec | 08540 QLN CHE SPECIAL | KTYM→RJY | 04:05 | 3A | **52** (all 17) | ₹1935 | 6h | book KTYM->RJY on Tue 22 Dec, get down at BZA |
+| Tue 22 Dec | 08540 QLN CHE SPECIAL | CNGR→RJY | 03:27 | 3A | **52** (all 17) | ₹1955 | 8h | book CNGR->RJY on Tue 22 Dec, get down at BZA |
+| Tue 22 Dec | 08540 QLN CHE SPECIAL | QLN→RJY | 02:30 | 3A | **52** (all 17) | ₹1990 | 13h | book QLN->RJY on Tue 22 Dec, get down at BZA |
+| Tue 22 Dec | 08540 QLN CHE SPECIAL | KYJ→BZA | 03:04 | 3A | **51** (all 17) | ₹1860 | 27m | book KYJ->BZA on Tue 22 Dec, change boarding point to CNGR |
 | Tue 22 Dec | 08540 QLN CHE SPECIAL | QLN→CHE | 02:30 | 2A | **67** (all 17) | ₹3120 | 2d | book QLN->CHE on Tue 22 Dec, change boarding point to KTYM, get down at BZA |
 
 …and 19 more.
@@ -244,7 +244,7 @@ Tue 15 Dec to Sun 20 Dec, return Thu 17 Dec to Tue 22 Dec · 17 passengers · SL
 | Date | Train | Segment | Dep | Status |
 |---|---|---|---|---|
 | Thu 17 Dec | 22648 TVCN KRBA SF EXP | QLN→BZA | 07:08 | SL PQWL122/WL104, 3E PQWL49/WL25, 3A PQWL94/WL35, 2A PQWL24/WL12 |
-| Thu 17 Dec | 22648 TVCN KRBA SF EXP | CNGR→BZA | 08:08 | SL PQWL122/WL104, 3E PQWL49/WL25, 3A PQWL94/WL35, 2A PQWL24/WL12 |
+| Thu 17 Dec | 22648 TVCN KRBA SF EXP | CNGR→BZA | 08:08 | SL PQWL122/WL104, 3E PQWL49/WL25, 3A PQWL94/WL35, 2A PQWL25/WL13 |
 | Thu 17 Dec | 22648 TVCN KRBA SF EXP | KTYM→BZA | 08:51 | SL PQWL122/WL101, 3E PQWL49/WL25, 3A PQWL94/WL35, 2A PQWL24/WL12 |
 | Thu 17 Dec | 12625 KERALA SF EXP | QLN→BZA | 13:18 | SL GNWL235/WL152, 3E GNWL92/WL50, 3A GNWL223/WL102, 2A Regret |
 | Thu 17 Dec | 12625 KERALA SF EXP | CNGR→BZA | 14:17 | SL Regret, 3E GNWL92/WL49, 3A GNWL222/WL101, 2A Regret |
@@ -261,14 +261,14 @@ Tue 15 Dec to Sun 20 Dec, return Thu 17 Dec to Tue 22 Dec · 17 passengers · SL
 | Fri 18 Dec | 16317 HIMSAGAR EXPRESS | KTYM→BZA | 19:05 | SL GNWL216/WL123, 3E Regret, 3A GNWL203/WL95, 2A Regret |
 | Fri 18 Dec | 18568 QLN VSKP EXP | QLN→BZA | 19:35 | SL PQWL128/WL80, 3E PQWL37/WL25, 3A PQWL60/WL52, 2A PQWL32/WL23 |
 | Fri 18 Dec | 22503 DBRG VIVEK EXP | QLN→BZA | 20:45 | SL Regret, 3A Regret, 2A Regret |
-| Fri 18 Dec | 18568 QLN VSKP EXP | CNGR→BZA | 20:47 | SL PQWL127/WL79, 3E PQWL37/WL25, 3A PQWL60/WL52, 2A PQWL29/WL20 |
+| Fri 18 Dec | 18568 QLN VSKP EXP | CNGR→BZA | 20:47 | SL PQWL128/WL80, 3E PQWL37/WL25, 3A PQWL60/WL52, 2A PQWL29/WL20 |
 | Fri 18 Dec | 18568 QLN VSKP EXP | KTYM→BZA | 21:30 | SL PQWL128/WL80, 3E PQWL37/WL25, 3A PQWL60/WL52, 2A PQWL32/WL23 |
 | Fri 18 Dec | 22503 DBRG VIVEK EXP | CNGR→BZA | 21:36 | SL Regret, 3A Regret, 2A Regret |
 | Fri 18 Dec | 22503 DBRG VIVEK EXP | KTYM→BZA | 22:06 | SL Regret, 3A Regret, 2A Regret |
 | Sat 19 Dec | 07234 QLN CCT SPECIAL | QLN→BZA | 02:30 | SL GNWL80/WL57, 3A AVAILABLE-0030, 2A AVAILABLE-0094, 1A AVAILABLE-0016 |
-| Sat 19 Dec | 07234 QLN CCT SPECIAL | CNGR→BZA | 03:27 | SL GNWL80/WL57, 3A AVAILABLE-0030, 2A AVAILABLE-0094, 1A AVAILABLE-0016 |
+| Sat 19 Dec | 07234 QLN CCT SPECIAL | CNGR→BZA | 03:27 | SL GNWL80/WL57, 3A AVAILABLE-0028, 2A AVAILABLE-0094, 1A AVAILABLE-0016 |
 | Sat 19 Dec | 07234 QLN CCT SPECIAL | KTYM→BZA | 04:05 | SL GNWL80/WL57, 3A AVAILABLE-0030, 2A AVAILABLE-0094, 1A AVAILABLE-0016 |
-| Sat 19 Dec | 22646 AHILYANAGARI EXP | QLN→BZA | 07:35 | SL PQWL87/WL72, 3E PQWL37/WL30, 3A PQWL64/WL48, 2A PQWL28/WL23 |
+| Sat 19 Dec | 22646 AHILYANAGARI EXP | QLN→BZA | 07:35 | SL PQWL87/WL72, 3E PQWL37/WL30, 3A PQWL64/WL47, 2A PQWL28/WL23 |
 | Sat 19 Dec | 12625 KERALA SF EXP | QLN→BZA | 13:18 | SL GNWL222/WL112, 3E GNWL105/WL65, 3A GNWL250/WL100, 2A Regret |
 | Sat 19 Dec | 12625 KERALA SF EXP | CNGR→BZA | 14:17 | SL GNWL233/WL123, 3E GNWL105/WL65, 3A GNWL250/WL100, 2A Regret |
 | Sat 19 Dec | 12625 KERALA SF EXP | KTYM→BZA | 15:00 | SL GNWL233/WL123, 3E GNWL105/WL65, 3A GNWL250/WL100, 2A Regret |
@@ -288,7 +288,7 @@ Tue 15 Dec to Sun 20 Dec, return Thu 17 Dec to Tue 22 Dec · 17 passengers · SL
 | Sun 20 Dec | 22503 DBRG VIVEK EXP | CNGR→BZA | 21:36 | SL Regret, 3A Regret, 2A Regret |
 | Sun 20 Dec | 22503 DBRG VIVEK EXP | KTYM→BZA | 22:06 | SL Regret, 3A Regret, 2A Regret |
 | Mon 21 Dec | 22648 TVCN KRBA SF EXP | QLN→BZA | 07:08 | SL PQWL120/WL81, 3E PQWL36/WL22, 3A PQWL50/WL21, 2A PQWL22/WL17 |
-| Mon 21 Dec | 22648 TVCN KRBA SF EXP | CNGR→BZA | 08:08 | SL PQWL120/WL81, 3E PQWL36/WL22, 3A PQWL51/WL21, 2A PQWL22/WL17 |
+| Mon 21 Dec | 22648 TVCN KRBA SF EXP | CNGR→BZA | 08:08 | SL PQWL120/WL81, 3E PQWL36/WL22, 3A PQWL53/WL23, 2A PQWL22/WL17 |
 | Mon 21 Dec | 22648 TVCN KRBA SF EXP | KTYM→BZA | 08:51 | SL PQWL120/WL81, 3E PQWL36/WL22, 3A PQWL53/WL23, 2A PQWL22/WL17 |
 | Mon 21 Dec | 12625 KERALA SF EXP | QLN→BZA | 13:18 | SL GNWL182/WL126, 3E GNWL54/WL40, 3A GNWL104/WL56, 2A GNWL46/WL32 |
 | Mon 21 Dec | 12625 KERALA SF EXP | CNGR→BZA | 14:17 | SL GNWL182/WL126, 3E GNWL54/WL40, 3A GNWL108/WL58, 2A GNWL46/WL32 |
@@ -318,8 +318,8 @@ Tue 15 Dec to Sun 20 Dec, return Thu 17 Dec to Tue 22 Dec · 17 passengers · SL
 | Train | Status | Boards at |
 |---|---|---|
 | 07198 QLN CHZ SPECIAL | SL GNWL103/WL95, 3A GNWL22/WL7, 2A RAC  16/RAC  16 | KTYM Fri 18 Dec 12:27 |
-| 07234 QLN CCT SPECIAL | SL GNWL80/WL57, 3A AVAILABLE-0030, 2A AVAILABLE-0094, 1A AVAILABLE-0016 | CGY Sat 19 Dec 03:46, CNGR Sat 19 Dec 03:27, KTYM Sat 19 Dec 04:05, KYJ Sat 19 Dec 03:04, MVLK Sat 19 Dec 03:13, QLN Sat 19 Dec 02:30, TRVL Sat 19 Dec 03:37 |
-| 07181 QLN CHZ SPECIAL | SL GNWL108/WL82, 3A GNWL14/WL12, 2A RAC   7/RAC   7 | KTYM Sun 20 Dec 12:27 |
+| 07234 QLN CCT SPECIAL | SL GNWL80/WL57, 3A AVAILABLE-0028, 2A AVAILABLE-0094, 1A AVAILABLE-0016 | CGY Sat 19 Dec 03:46, CNGR Sat 19 Dec 03:27, KTYM Sat 19 Dec 04:05, KYJ Sat 19 Dec 03:04, MVLK Sat 19 Dec 03:13, QLN Sat 19 Dec 02:30, TRVL Sat 19 Dec 03:37 |
+| 07181 QLN CHZ SPECIAL | SL GNWL109/WL83, 3A GNWL14/WL12, 2A RAC   7/RAC   7 | KTYM Sun 20 Dec 12:27 |
 | 07194 QLN HYB SPECIAL | SL GNWL37/WL37, 3A AVAILABLE-0172, 2A AVAILABLE-0030 | KTYM Mon 21 Dec 12:27, QLN Mon 21 Dec 10:45 |
 | 08540 QLN CHE SPECIAL | SL GNWL56/WL51, 3A AVAILABLE-0052, 2A AVAILABLE-0052 | CGY Tue 22 Dec 03:46, CNGR Tue 22 Dec 03:27, KTYM Tue 22 Dec 04:05, KYJ Tue 22 Dec 03:04, MVLK Tue 22 Dec 03:13, QLN Tue 22 Dec 02:30, TRVL Tue 22 Dec 03:37 |
 
