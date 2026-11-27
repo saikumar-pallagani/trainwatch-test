@@ -79,5 +79,14 @@
   "title": "1 new seat option(s)",
   "urgent": false,
   "watch": "sabarimala"
+ },
+ {
+  "at": 1795744487.709905,
+  "body": "===== RETURN =====\nSun 20 Dec | 07181 QLN CHZ SPECIAL | KTYM->GNT dep 12:27\n   2A: 8 seats (RAC) Rs2520, data 2m old\n   -> nearby station: KTYM->GNT",
+  "route": "BZA \u2192 KTYM, CNGR, QLN",
+  "sent": true,
+  "title": "1 new seat option(s)",
+  "urgent": false,
+  "watch": "sabarimala"
  }
 ]
