@@ -97,5 +97,14 @@
   "title": "Seats for all 17",
   "urgent": true,
   "watch": "sabarimala"
+ },
+ {
+  "at": 1795768751.3608217,
+  "body": "===== RETURN =====\nNew special trains:\n  07188 QLN KZJ SPECIAL",
+  "route": "BZA \u2192 KTYM, CNGR, QLN",
+  "sent": true,
+  "title": "New special train(s)",
+  "urgent": false,
+  "watch": "sabarimala"
  }
 ]
