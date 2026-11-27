@@ -88,5 +88,14 @@
   "title": "1 new seat option(s)",
   "urgent": false,
   "watch": "sabarimala"
+ },
+ {
+  "at": 1795751882.4757102,
+  "body": "===== ONWARD =====\nNew special trains:\n  07187 HYB QLN SPL\n\n===== RETURN =====\nSat 19 Dec | 07234 QLN CCT SPECIAL | CNGR->CCT dep 03:27\n   1A: 15 seats (partial) Rs4870, data 1h old\n   -> book CNGR->CCT on Sat 19 Dec, get down at BZA",
+  "route": "BZA \u2192 KTYM, CNGR, QLN",
+  "sent": true,
+  "title": "Seats for all 17",
+  "urgent": true,
+  "watch": "sabarimala"
  }
 ]
