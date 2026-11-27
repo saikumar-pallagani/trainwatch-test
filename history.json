@@ -106,5 +106,14 @@
   "title": "New special train(s)",
   "urgent": false,
   "watch": "sabarimala"
+ },
+ {
+  "at": 1795772940.5526016,
+  "body": "===== RETURN =====\nSat 19 Dec | 07234 QLN CCT SPECIAL | KTYM->BZA dep 04:05\n   3A: 26 seats (FULL GROUP) Rs2030, data 49m old",
+  "route": "BZA \u2192 KTYM, CNGR, QLN",
+  "sent": true,
+  "title": "Seats for all 17",
+  "urgent": true,
+  "watch": "sabarimala"
  }
 ]
