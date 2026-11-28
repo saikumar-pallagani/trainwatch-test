@@ -160,5 +160,14 @@
   "title": "1 new seat option(s)",
   "urgent": false,
   "watch": "sabarimala"
+ },
+ {
+  "at": 1795852677.3832982,
+  "body": "===== RETURN =====\nTue 22 Dec | 08540 QLN CHE SPECIAL | KTYM->BZA dep 04:05\n   3A: 11 seats (RAC) Rs1820, data 57m old\nTue 22 Dec | 08540 QLN CHE SPECIAL | QLN->BZA dep 02:30\n   3A: 11 seats (RAC) Rs1880, data 50m old\nTue 22 Dec | 08540 QLN CHE SPECIAL | KYJ->BZA dep 03:04\n   3A: 12 seats (RAC) Rs1860, data 11m old\n   -> book KYJ->BZA on Tue 22 Dec, change boarding point to CNGR\nTue 22 Dec | 08540 QLN CHE SPECIAL | QLN->EE dep 02:30\n   3A: 11 seats (RAC) Rs1935, data 50m old\n   -> book QLN->EE on Tue 22 Dec, get down at BZA",
+  "route": "BZA \u2192 KTYM, CNGR, QLN",
+  "sent": true,
+  "title": "4 new seat option(s)",
+  "urgent": false,
+  "watch": "sabarimala"
  }
 ]
