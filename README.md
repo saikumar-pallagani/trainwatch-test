@@ -1,6 +1,6 @@
 # Train watch
 
-Updated 28 Nov 2026, 07:33 IST. Availability is ConfirmTkt's cached copy; confirm on IRCTC before booking.
+Updated 28 Nov 2026, 08:21 IST. Availability is ConfirmTkt's cached copy; confirm on IRCTC before booking.
 
 | Watch | Status | Open options | Last check | Checks every |
 |---|---|---|---|---|
