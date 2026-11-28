@@ -178,5 +178,14 @@
   "title": "2 new seat option(s)",
   "urgent": false,
   "watch": "sabarimala"
+ },
+ {
+  "at": 1795865668.356649,
+  "body": "===== RETURN =====\nTue 22 Dec | 08540 QLN CHE SPECIAL | KTYM->BZA dep 04:05\n   3A: 12 seats (RAC) Rs1820, data 52m old",
+  "route": "BZA \u2192 KTYM, CNGR, QLN",
+  "sent": true,
+  "title": "1 new seat option(s)",
+  "urgent": false,
+  "watch": "sabarimala"
  }
 ]
